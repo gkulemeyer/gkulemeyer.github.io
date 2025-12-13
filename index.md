@@ -1,33 +1,34 @@
-# Guillermo Kulemeyer
+![Profile photo](/assets/img/me.jpg){: width="180px" style="border-radius: 50%;"}
 
-![Foto de perfil](/assets/img/me.jpg){: width="180px" style="border-radius: 50%;"}
+# Guillermo Manuel Kulemeyer
 
-Investigador en Machine Learning y bioinformática.
-
-Trabajo en modelos de deep learning con PyTorch, análisis de secuencias
-y predicción de estructura secundaria de RNA.
+PhD Candidate · Machine Learning · Bioinformatics · RNA
 
 ---
 
-## 🧠 Intereses
-- Machine Learning
-- Deep Learning
-- Bioinformática
-- RNA
+<nav style="display:flex; justify-content: space-between; align-items:center; padding: 0.5rem 0; border-bottom: 1px solid #e5e5e5;">
+  <div><strong>Guillermo Kulemeyer</strong></div>
+  <div>
+    <a href="/" style="margin-right: 1rem;">Home</a>
+    <a href="/projects" style="margin-right: 1rem;">Projects</a>
+    <a href="/cv" style="margin-right: 1rem;">CV</a>
+    <span>|</span>
+    <a href="/" style="margin-left: 1rem;">EN</a>
+    <a href="/es" style="margin-left: 0.5rem;">ES</a>
+  </div>
+</nav>
 
 ---
 
-## 🧪 Proyectos
-- Predicción de estructura secundaria de RNA no codificante
-- Entrenamiento y evaluación de modelos neuronales
-- Análisis de ruido y robustez en modelos
+## 🏠 Home
+
+I am a **PhD candidate working at the intersection of machine learning and bioinformatics**, with a background in **Physics**. My main interests lie in **deep learning models for biological sequences**, especially methods that can learn meaningful representations from **limited and noisy data**.
+
+I enjoy working on problems that combine **theory, modeling, and computation**, with particular interest in **generative approaches** and **sequence-based neural architectures**. Most of my work is developed in **Python using PyTorch**.
 
 ---
 
 ## 🔗 Links
+
 - [GitHub](https://github.com/Gisch97)
-- Email: tuemail@ejemplo.com
-## 📄 CV
-
-[Descargar CV (PDF)](/assets/cv/CV_Kulemeyer_122025.pdf)
-
+- Email: gkulemeyer@sinc.unl.edu.ar
