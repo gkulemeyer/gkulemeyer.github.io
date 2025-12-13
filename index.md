@@ -1,23 +1,36 @@
-![Profile photo](/assets/img/me.jpg){: width="180px" style="border-radius: 50%;"}
+# Guillermo Manuel Kulemeyer
+## PhD Candidate · Machine Learning · Bioinformatics · RNA
 
-<nav style="display:flex; justify-content: space-between; align-items:center; padding: 0.5rem 0; border-bottom: 1px solid #e5e5e5;">
-  <div><strong>Guillermo Kulemeyer</strong></div>
-  <div>
-    <a href="/" style="margin-right: 1rem;">Home</a>
-    <a href="/projects" style="margin-right: 1rem;">Projects</a>
-    <a href="/cv" style="margin-right: 1rem;">CV</a>
-    <span>|</span>
-    <a href="/" style="margin-left: 1rem;">EN</a>
-    <a href="/es" style="margin-left: 0.5rem;">ES</a>
-  </div>
+<nav style="display:flex; justify-content: flex-end; align-items:center; padding: 0.5rem 0; border-bottom: 1px solid #e5e5e5;">
+  <a href="/" style="margin-right: 1rem;">Home</a>
+  <a href="/projects" style="margin-right: 1rem;">Projects</a>
+  <a href="/cv" style="margin-right: 1rem;">CV</a>
+  <span>|</span>
+  <a href="/" style="margin-left: 1rem;">EN</a>
+  <a href="/es" style="margin-left: 0.5rem;">ES</a>
 </nav>
 
-# Guillermo Manuel Kulemeyer
 
-PhD Candidate · Machine Learning · Bioinformatics · RNA
+<div style="display:flex; align-items:center; gap:2rem; flex-wrap:wrap; margin-top:2rem;">
 
----
+  <div style="flex:0 0 30%; max-width:30%; min-width:180px;">
+    <img src="/assets/img/me.jpg"
+         alt="Guillermo Kulemeyer"
+         style="width:100%; border-radius:16px;">
+  </div>
 
-I am a **PhD candidate working at the intersection of machine learning and bioinformatics**, with a background in **Physics**. My main interests lie in **deep learning models for biological sequences**, especially methods that can learn meaningful representations from **limited and noisy data**.
+  <div style="flex:0 0 65%; max-width:65%; min-width:300px;">
+    <p>
+      I am a <strong>PhD candidate working at the intersection of machine learning and bioinformatics</strong>,
+      with a background in Physics. My main interests lie in deep learning models for biological sequences,
+      especially methods that can learn meaningful representations from limited and noisy data.
+    </p>
 
-I enjoy working on problems that combine **theory, modeling, and computation**, with particular interest in **generative approaches** and **sequence-based neural architectures**. Most of my work is developed in **Python using PyTorch**.
+    <p>
+      I enjoy working on problems that combine theory, modeling, and computation, with particular interest
+      in generative approaches and sequence-based neural architectures. Most of my work is developed in
+      Python using PyTorch.
+    </p>
+  </div>
+
+</div>
