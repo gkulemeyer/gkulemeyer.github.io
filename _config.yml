@@ -1,7 +1,5 @@
 title: Guillermo Kulemeyer
 description: Machine Learning • Bioinformática • PyTorch
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 
-
-logo: /assets/img/me.jpg
 show_downloads: false
