@@ -1,11 +1,5 @@
 ![Profile photo](/assets/img/me.jpg){: width="180px" style="border-radius: 50%;"}
 
-# Guillermo Manuel Kulemeyer
-
-PhD Candidate · Machine Learning · Bioinformatics · RNA
-
----
-
 <nav style="display:flex; justify-content: space-between; align-items:center; padding: 0.5rem 0; border-bottom: 1px solid #e5e5e5;">
   <div><strong>Guillermo Kulemeyer</strong></div>
   <div>
@@ -18,17 +12,12 @@ PhD Candidate · Machine Learning · Bioinformatics · RNA
   </div>
 </nav>
 
----
+# Guillermo Manuel Kulemeyer
 
-## 🏠 Home
+PhD Candidate · Machine Learning · Bioinformatics · RNA
+
+---
 
 I am a **PhD candidate working at the intersection of machine learning and bioinformatics**, with a background in **Physics**. My main interests lie in **deep learning models for biological sequences**, especially methods that can learn meaningful representations from **limited and noisy data**.
 
 I enjoy working on problems that combine **theory, modeling, and computation**, with particular interest in **generative approaches** and **sequence-based neural architectures**. Most of my work is developed in **Python using PyTorch**.
-
----
-
-## 🔗 Links
-
-- [GitHub](https://github.com/Gisch97)
-- Email: gkulemeyer@sinc.unl.edu.ar
