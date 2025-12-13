@@ -18,13 +18,14 @@
   </div>
 
   <div style="flex:0 0 65%; max-width:65%; min-width:300px;">
-    <p>
-      I am a <strong>PhD candidate working at the intersection of machine learning and bioinformatics</strong>,
-      with a background in Physics. I am currently affiliated with the
-      <a href="https://sinc.unl.edu.ar/staff/guillermo-kulemeyer/" target="_blank">
-        Research Institute for Signals, Systems and Computational Intelligence (sinc(i))
-      </a>.
-    </p>
+  <p>
+    I am a <strong>PhD candidate working at the intersection of machine learning and bioinformatics</strong>,
+    with a background in Physics. I am currently affiliated with the
+    <a href="https://sinc.unl.edu.ar/staff/guillermo-kulemeyer/" target="_blank">
+      Research Institute for Signals, Systems and Computational Intelligence (sinc(i), UNL–CONICET)
+    </a>.
+  </p>
+
 
     <p>
       My research focuses on deep learning models for biological sequences, with particular interest in

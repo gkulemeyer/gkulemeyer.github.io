@@ -18,13 +18,14 @@
   </div>
 
   <div style="flex:0 0 65%; max-width:65%; min-width:300px;">
-    <p>
-      Soy <strong>doctorando y trabajo en la intersección entre el aprendizaje automático y la bioinformática</strong>,
-      con formación de base en Física. Actualmente desarrollo mi investigación en el
-      <a href="https://sinc.unl.edu.ar/staff/guillermo-kulemeyer/" target="_blank">
-        Instituto de Investigación en Señales, Sistemas e Inteligencia Computacional (sinc(i), UNL–CONICET)
-      </a>.
-    </p>
+  <p>
+    Soy <strong>doctorando y trabajo en la intersección entre el aprendizaje automático y la bioinformática</strong>,
+    con formación en Física. Actualmente desarrollo mi investigación en el
+    <a href="https://sinc.unl.edu.ar/staff/guillermo-kulemeyer/" target="_blank">
+      Instituto de Investigación en Señales, Sistemas e Inteligencia Computacional (sinc(i), UNL–CONICET)
+    </a>.
+  </p>
+
 
     <p>
       Mis intereses se centran en el desarrollo de modelos de aprendizaje profundo para secuencias biológicas,
