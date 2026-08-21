@@ -23,7 +23,7 @@ Doctoral research on predictive and generative modeling of RNA secondary structu
 
 **Facultad de Ingeniería y Ciencias Hídricas, Universidad Nacional del Litoral · 2026–present**
 
-Teaching assistant (*Ayudante de Primera*) for Neural Networks I and Neural Networks II in the Artificial Intelligence Engineering program.
+Teaching assistant (*Ayudante de Primera*) for Neural Networks I and Neural Networks II in the [Ingeniería en Inteligencia Artificial](https://www.unl.edu.ar/carreras/ingenieria-en-inteligencia-artificial/) program.
 :::
 
 ::: {.timeline-item}
@@ -50,8 +50,8 @@ EVC-CIN undergraduate research fellow working on neural-network interatomic pote
 
 ## Selected Presentations
 
-**1st Argentine Workshop on Bioinformatics and Computational Biology · 2025**<br>
+**I Jornada Argentina de Bioinformática y Biología Computacional · 2025**<br>
 Poster: “Enhancing Deep Learning Prediction of Base-Pairing Probability in RNA Sequences Using Structural Diversity.”
 
-**10th Surfaces Physics & Chemistry Meeting, CNEA · 2024**<br>
+**X Encuentro de Física y Química de Superficies, CNEA · 2024**<br>
 Poster: “Dissociative Adsorption of Methane on Pt(110)-(1×2) Using Machine Learning.”

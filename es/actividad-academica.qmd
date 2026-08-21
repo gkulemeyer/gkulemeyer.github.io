@@ -23,7 +23,7 @@ Investigación doctoral sobre modelado predictivo y generativo de estructura sec
 
 **Facultad de Ingeniería y Ciencias Hídricas, Universidad Nacional del Litoral · 2026–actualidad**
 
-Docencia en Redes Neuronales I y Redes Neuronales II de la carrera Ingeniería en Inteligencia Artificial.
+Docencia en Redes Neuronales I y Redes Neuronales II de la carrera [Ingeniería en Inteligencia Artificial](https://www.unl.edu.ar/carreras/ingenieria-en-inteligencia-artificial/).
 :::
 
 ::: {.timeline-item}
