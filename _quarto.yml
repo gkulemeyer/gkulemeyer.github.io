@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - research.qmd
+    - academic-activity.qmd
+    - cv.qmd
+    - contact.qmd
+    - 404.qmd
+    - es/index.qmd
+    - es/investigacion.qmd
+    - es/actividad-academica.qmd
+    - es/cv.qmd
+    - es/contacto.qmd
+
+website:
+  title: "Guillermo Kulemeyer"
+  site-url: "https://gkulemeyer.github.io"
+  description: "Academic website of Guillermo Kulemeyer, physicist and PhD student working on machine learning and biomolecular modeling."
+  open-graph: true
+  twitter-card: true
+  search: false
+
+format:
+  html:
+    theme:
+      - litera
+      - styles.scss
+    toc: false
+    link-external-newwindow: false
+    anchor-sections: true
+    smooth-scroll: true

@@ -1,0 +1,52 @@
+---
+title: "Research"
+subtitle: "Questions, methods, and current collaborations"
+description-meta: "Research by Guillermo Kulemeyer on RNA structure prediction, discrete diffusion, model generalization, and biomolecular ensembles."
+header-includes: |
+  <link rel="alternate" hreflang="en" href="https://gkulemeyer.github.io/research.html">
+  <link rel="alternate" hreflang="es" href="https://gkulemeyer.github.io/es/investigacion.html">
+---
+
+My research asks how learning-based models can represent biomolecular structure while remaining reliable when data are limited, redundant, or different from the examples used for training.
+
+::: {.modeling-note}
+**Two complementary aims.** Predictive models seek an accurate structural estimate from a sequence. Generative models seek a distribution of plausible structures, allowing diversity and uncertainty to be represented explicitly.
+:::
+
+## Generating RNA Structural Ensembles
+
+::: {.research-line}
+**Scientific question**
+
+How can a model produce multiple plausible RNA secondary structures conditioned on a nucleotide sequence rather than returning only one estimate?
+
+**Approach and contribution**
+
+I develop conditional discrete diffusion models with two-dimensional neural architectures for sampling RNA secondary structures. My work includes reproducible training and sampling pipelines and ensemble-level evaluation using consensus, energy, and structural-diversity criteria.
+
+**Status**
+
+Ongoing doctoral research at sinc(i), UNL-CONICET.
+:::
+
+## Evaluating Generalization in RNA Prediction
+
+::: {.research-line}
+**Scientific question**
+
+How should RNA structure predictors be evaluated when training and test sequences share different degrees of similarity or belong to different RNA families?
+
+**Approach and contribution**
+
+I study family-aware and sequence-similarity evaluation regimes across RNA datasets. My contribution focuses on reproducible comparison of classical and deep-learning predictors and on identifying when apparent predictive performance depends on the composition of the evaluation split.
+
+**Status**
+
+Ongoing doctoral research at sinc(i), UNL-CONICET.
+:::
+
+## Biomolecular Ensembles Beyond RNA
+
+::: {.research-line}
+Through the **IDPfun2 Marie Skłodowska-Curie Staff Exchanges** collaboration, I work on generative modeling of ordered and intrinsically disordered protein ensembles. This line connects computational sampling with energy-landscape interpretations grounded in statistical physics.
+:::

@@ -1,0 +1,57 @@
+---
+title: "Actividad Académica"
+subtitle: "Formación, docencia y experiencia seleccionada"
+description-meta: "Formación, docencia, experiencia en investigación y presentaciones seleccionadas de Guillermo Kulemeyer."
+header-includes: |
+  <link rel="alternate" hreflang="en" href="https://gkulemeyer.github.io/academic-activity.html">
+  <link rel="alternate" hreflang="es" href="https://gkulemeyer.github.io/es/actividad-academica.html">
+---
+
+## Actividades Actuales
+
+::: {.timeline}
+::: {.timeline-item}
+### Becario Doctoral del CONICET
+
+**sinc(i), UNL-CONICET · 2025–actualidad**
+
+Investigación doctoral sobre modelado predictivo y generativo de estructura secundaria de ARN, bajo la dirección del Prof. Diego H. Milone y el Dr. Leandro Bugnon.
+:::
+
+::: {.timeline-item}
+### Ayudante de Primera
+
+**Facultad de Ingeniería y Ciencias Hídricas, Universidad Nacional del Litoral · 2026–actualidad**
+
+Docencia en Redes Neuronales I y Redes Neuronales II de la carrera Ingeniería en Inteligencia Artificial.
+:::
+
+::: {.timeline-item}
+### Colaboración de Investigación IDPfun2
+
+**Marie Skłodowska-Curie Staff Exchanges · 2025–actualidad**
+
+Investigación sobre modelado generativo de ensembles de proteínas ordenadas e intrínsecamente desordenadas.
+:::
+:::
+
+## Formación
+
+**Doctorado en Ingeniería – Inteligencia Computacional**, Universidad Nacional del Litoral, 2025–actualidad<br>
+Tema de tesis: modelos generativos para representaciones conjuntas de secuencia y estructura y ensembles de ARN.
+
+**Licenciatura en Física**, Universidad Nacional de Rosario, 2016–2024<br>
+Tesina sobre simulaciones de la adsorción disociativa de metano en Pt(110)-(1×2) mediante aprendizaje automático.
+
+## Investigación Previa
+
+**Instituto de Física Rosario (IFIR), UNR-CONICET · 2022–2024**<br>
+Becario EVC-CIN en potenciales interatómicos basados en redes neuronales y simulaciones computacionales de adsorción de metano sobre superficies de platino.
+
+## Presentaciones Seleccionadas
+
+**I Jornada Argentina de Bioinformática y Biología Computacional · 2025**<br>
+Póster: “Enhancing Deep Learning Prediction of Base-Pairing Probability in RNA Sequences Using Structural Diversity”.
+
+**X Encuentro de Física y Química de Superficies, CNEA · 2024**<br>
+Póster: “Adsorción disociativa de metano sobre Pt(110)-(1×2) con aprendizaje automatizado”.

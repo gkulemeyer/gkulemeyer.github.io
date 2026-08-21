@@ -1,0 +1,19 @@
+---
+title: "Curriculum Vitae"
+description-meta: "Descarga del curriculum vitae público de Guillermo Kulemeyer."
+header-includes: |
+  <link rel="alternate" hreflang="en" href="https://gkulemeyer.github.io/cv.html">
+  <link rel="alternate" hreflang="es" href="https://gkulemeyer.github.io/es/cv.html">
+---
+
+## CV Público
+
+La versión pública disponible actualmente fue actualizada en **diciembre de 2025**. Resume mi formación, experiencia en investigación, becas, presentaciones y experiencia profesional.
+
+[Descargar CV (PDF)](/assets/cv/CV_Kulemeyer_122025.pdf){.button-primary download="CV_Guillermo_Kulemeyer_122025.pdf"}
+
+::: {.document-note}
+**Versión:** diciembre de 2025 · PDF, 2 páginas
+:::
+
+Para consultar información académica actual, visitá [Investigación](investigacion.qmd) y [Actividad académica](actividad-academica.qmd).

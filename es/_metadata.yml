@@ -1,0 +1,8 @@
+lang: es
+format:
+  html:
+    include-in-header: ../_includes/meta-author.html
+    include-before-body: ../_includes/nav-es.html
+    include-after-body:
+      - ../_includes/footer-es.html
+      - ../_includes/site-script.html

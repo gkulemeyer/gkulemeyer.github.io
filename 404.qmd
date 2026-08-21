@@ -1,0 +1,9 @@
+---
+title: "Page not found / Página no encontrada"
+description-meta: "The requested page could not be found."
+permalink: 404.html
+---
+
+The requested page could not be found. Return to the [English home page](index.qmd).
+
+No se encontró la página solicitada. Volvé al [inicio en español](es/index.qmd).

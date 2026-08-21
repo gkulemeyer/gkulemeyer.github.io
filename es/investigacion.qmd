@@ -1,0 +1,52 @@
+---
+title: "Investigación"
+subtitle: "Preguntas, métodos y colaboraciones actuales"
+description-meta: "Investigación de Guillermo Kulemeyer sobre estructura de ARN, difusión discreta, generalización de modelos y ensembles biomoleculares."
+header-includes: |
+  <link rel="alternate" hreflang="en" href="https://gkulemeyer.github.io/research.html">
+  <link rel="alternate" hreflang="es" href="https://gkulemeyer.github.io/es/investigacion.html">
+---
+
+Mi investigación estudia cómo los modelos basados en aprendizaje pueden representar estructuras biomoleculares y mantener su confiabilidad cuando los datos son limitados, redundantes o diferentes de los ejemplos utilizados durante el entrenamiento.
+
+::: {.modeling-note}
+**Dos objetivos complementarios.** Los modelos predictivos buscan una estimación estructural precisa a partir de una secuencia. Los modelos generativos buscan una distribución de estructuras plausibles que permita representar explícitamente la diversidad y la incertidumbre.
+:::
+
+## Generación de Ensembles Estructurales de ARN
+
+::: {.research-line}
+**Pregunta científica**
+
+¿Cómo puede un modelo producir múltiples estructuras secundarias de ARN plausibles, condicionadas por una secuencia de nucleótidos, en lugar de devolver una única estimación?
+
+**Enfoque y contribución**
+
+Desarrollo modelos de difusión discreta condicional con arquitecturas neuronales bidimensionales para muestrear estructuras secundarias de ARN. Mi trabajo incluye pipelines reproducibles de entrenamiento y muestreo, junto con evaluación a nivel de ensemble mediante criterios de consenso, energía y diversidad estructural.
+
+**Estado**
+
+Investigación doctoral en curso en sinc(i), UNL-CONICET.
+:::
+
+## Evaluación de la Generalización en Predicción de ARN
+
+::: {.research-line}
+**Pregunta científica**
+
+¿Cómo deben evaluarse los predictores de estructura de ARN cuando las secuencias de entrenamiento y prueba tienen distintos grados de similitud o pertenecen a diferentes familias de ARN?
+
+**Enfoque y contribución**
+
+Estudio regímenes de evaluación basados en familias y similitud de secuencia en conjuntos de datos de ARN. Mi contribución se centra en la comparación reproducible de predictores clásicos y de aprendizaje profundo, y en identificar cuándo el rendimiento aparente depende de la composición de la partición de evaluación.
+
+**Estado**
+
+Investigación doctoral en curso en sinc(i), UNL-CONICET.
+:::
+
+## Ensembles Biomoleculares Más Allá del ARN
+
+::: {.research-line}
+En el marco de la colaboración **IDPfun2 Marie Skłodowska-Curie Staff Exchanges**, trabajo en modelado generativo de ensembles de proteínas ordenadas e intrínsecamente desordenadas. Esta línea conecta el muestreo computacional con interpretaciones del paisaje energético basadas en física estadística.
+:::
