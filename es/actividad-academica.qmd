@@ -7,7 +7,7 @@ header-includes: |
   <link rel="alternate" hreflang="es" href="https://gkulemeyer.github.io/es/actividad-academica.html">
 ---
 
-Mi recorrido académico conecta la física, el aprendizaje automático y la bioinformática. La investigación me permite explorar preguntas abiertas sobre modelado biomolecular, mientras que la docencia me invita a volver sobre ideas fundamentales y comunicarlas con claridad.
+Soy físico de formación y actualmente trabajo en deep learning y bioinformática. Además de mi investigación doctoral, enseño redes neuronales en la carrera de Ingeniería en Inteligencia Artificial.
 
 ## Actividades actuales
 
@@ -17,7 +17,7 @@ Mi recorrido académico conecta la física, el aprendizaje automático y la bioi
 
 **2025–actualidad**
 
-Mi trabajo doctoral explora el modelado predictivo y generativo de la estructura secundaria del ARN, bajo la dirección del Prof. Diego H. Milone y el Dr. Leandro Bugnon. En el trabajo cotidiano combino desarrollo de modelos, análisis de datos, experimentos reproducibles e interpretación de resultados desde perspectivas computacionales y biológicas.
+Mi trabajo doctoral explora modelos predictivos y generativos de deep learning para estructura secundaria de ARN, bajo la dirección del Prof. Diego H. Milone y el Dr. Leandro Bugnon. El trabajo incluye desarrollo de modelos, análisis de datos, experimentos reproducibles y evaluación en distintos conjuntos de datos de ARN.
 :::
 
 ::: {.timeline-item}
@@ -25,7 +25,7 @@ Mi trabajo doctoral explora el modelado predictivo y generativo de la estructura
 
 **Facultad de Ingeniería y Ciencias Hídricas, Universidad Nacional del Litoral · 2026–actualidad**
 
-Soy docente de Redes Neuronales I y Redes Neuronales II como Ayudante de Primera en la carrera [Ingeniería en Inteligencia Artificial](https://www.unl.edu.ar/carreras/ingenieria-en-inteligencia-artificial/). Busco que los estudiantes conecten los conceptos matemáticos con las decisiones de implementación y desarrollen una comprensión práctica y fundamentada del comportamiento de los modelos neuronales.
+Soy docente de Redes Neuronales I y Redes Neuronales II como Ayudante de Primera en la carrera [Ingeniería en Inteligencia Artificial](https://www.unl.edu.ar/carreras/ingenieria-en-inteligencia-artificial/). Las materias conectan conceptos matemáticos, decisiones de implementación y análisis práctico de modelos neuronales.
 :::
 
 :::
@@ -38,16 +38,14 @@ Tema de tesis: modelos generativos para representaciones conjuntas de secuencia 
 **Licenciatura en Física**, Universidad Nacional de Rosario, 2016–2024<br>
 Tesina sobre simulaciones de la adsorción disociativa de metano en Pt(110)-(1×2) mediante aprendizaje automático.
 
-Mi formación en física marcó la forma en que abordo los problemas computacionales: buscando modelos interpretables, supuestos bien definidos y conexiones entre los resultados numéricos y los sistemas que describen.
+Esta formación me dio una base en modelado numérico, física estadística y computación científica.
 
 ## Investigación previa
 
 **Instituto de Física Rosario (IFIR), UNR-CONICET · 2022–2024**<br>
-Como becario EVC-CIN, trabajé en potenciales interatómicos basados en redes neuronales y simulaciones computacionales de adsorción de metano sobre superficies de platino. Esta experiencia me acercó al modelado científico basado en datos y sentó las bases de mi trabajo posterior en la intersección entre aprendizaje automático y sistemas moleculares.
+Como becario EVC-CIN, trabajé en potenciales interatómicos basados en redes neuronales y simulaciones computacionales de adsorción de metano sobre superficies de platino. Fue mi primera experiencia de investigación aplicando aprendizaje automático a un sistema molecular.
 
 ## Presentaciones seleccionadas
-
-Estas presentaciones reflejan la transición desde mis primeros trabajos en física computacional de superficies hasta mi interés actual en estructura de ARN y bioinformática.
 
 **I Jornada Argentina de Bioinformática y Biología Computacional · 2025**<br>
 Póster: “Enhancing Deep Learning Prediction of Base-Pairing Probability in RNA Sequences Using Structural Diversity”.

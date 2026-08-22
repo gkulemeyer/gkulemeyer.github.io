@@ -1,7 +1,7 @@
 ---
 title: "Guillermo Kulemeyer"
 subtitle: "Físico y doctorando en Inteligencia Computacional"
-description-meta: "Guillermo Kulemeyer trabaja en aprendizaje automático, bioinformática y modelado estructural de ARN y ensembles biomoleculares."
+description-meta: "Guillermo Kulemeyer trabaja en deep learning, bioinformática y modelado predictivo y generativo de estructura de ARN."
 image: ../assets/img/me.jpg
 page-layout: full
 header-includes: |
@@ -15,9 +15,9 @@ header-includes: |
 :::
 
 ::: {.hero-copy}
-Me interesa estudiar cómo el aprendizaje automático puede ayudarnos a comprender la estructura del ARN, desde una predicción confiable hasta la generación de ensembles estructurales diversos. En mi trabajo combino bioinformática, aprendizaje profundo y física estadística.
+Mi principal interés es el deep learning. En mi investigación actual desarrollo modelos predictivos y generativos para estudiar la estructura del ARN, con especial atención a la evaluación, la diversidad estructural y la incertidumbre.
 
-Lo que me atrae de estos problemas es que una única predicción no siempre alcanza para describir todo el panorama estructural. Los modelos predictivos permiten identificar señales confiables a partir de una secuencia, mientras que los modelos generativos ayudan a explorar estructuras alternativas, diversidad e incertidumbre.
+Soy físico de formación y actualmente trabajo en problemas que combinan aprendizaje automático y bioinformática.
 
 ::: {.hero-actions}
 [Conocer mi investigación](investigacion.qmd){.button-primary}
@@ -26,28 +26,24 @@ Lo que me atrae de estos problemas es que una única predicción no siempre alca
 :::
 :::
 
-## Áreas de trabajo
+## Foco actual
 
 ::: {.work-grid}
 ::: {.work-item}
-### [Modelado generativo de ARN](investigacion.qmd#generación-de-ensembles-estructurales-de-arn)
+### [Deep learning para estructura de ARN](investigacion.qmd)
 
-Desarrollo modelos de difusión discreta condicional que muestrean estructuras secundarias de ARN para estudiar la diversidad de ensembles plausibles más allá de una única respuesta.
+Desarrollo modelos neuronales para estructura secundaria de ARN y estudio cómo cambia su rendimiento entre conjuntos de datos, similitudes de secuencia y familias de ARN.
 :::
 
 ::: {.work-item}
-### [Evaluación confiable de modelos](investigacion.qmd#evaluación-de-la-generalización-en-predicción-de-arn)
+### [Modelado generativo](investigacion.qmd#generación-de-ensembles-estructurales-de-arn)
 
-Estudio evaluaciones por familias y similitud de secuencia para comprender cuándo los modelos de predicción de ARN realmente generalizan más allá de ejemplos conocidos.
+Utilizo modelos de difusión discreta condicional para muestrear múltiples estructuras plausibles y representar diversidad más allá de una única predicción.
 :::
 
 ::: {.work-item}
-### [Docencia en redes neuronales](actividad-academica.qmd#actividades-actuales)
+### [Evaluación y generalización](investigacion.qmd#evaluación-de-la-generalización-en-predicción-de-arn)
 
-Enseño Redes Neuronales I y II, buscando que los estudiantes conecten los fundamentos matemáticos, las decisiones de implementación y la práctica moderna del aprendizaje profundo.
+Comparo modelos mediante evaluaciones por familia y similitud de secuencia para comprender cuándo generalizan a ejemplos menos conocidos.
 :::
 :::
-
-## Abierto a conversar
-
-Disfruto intercambiar ideas sobre modelado de ARN, aprendizaje automático, investigación reproducible y docencia. Si compartimos intereses, [será un gusto conversar](contacto.qmd).

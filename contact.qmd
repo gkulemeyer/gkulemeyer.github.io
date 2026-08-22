@@ -6,9 +6,7 @@ header-includes: |
   <link rel="alternate" hreflang="es" href="https://gkulemeyer.github.io/es/contacto.html">
 ---
 
-Interested in discussing RNA modeling, machine learning, teaching, or a possible collaboration? I'd be glad to hear from you.
-
-Whether you have a research question, see a connection between our work, or simply want to exchange ideas, feel free to write. Messages from students and early-career researchers are also very welcome.
+Feel free to write if you'd like to discuss deep learning, RNA modeling, teaching, or a possible collaboration.
 
 ## Email
 

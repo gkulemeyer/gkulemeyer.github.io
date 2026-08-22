@@ -8,7 +8,7 @@ header-includes: |
 
 Podés descargar mi CV público a continuación. Allí encontrarás un resumen de mi formación, experiencia en investigación, becas, presentaciones y recorrido profesional.
 
-La versión actual fue actualizada en **diciembre de 2025**. Para conocer mi trabajo de una manera más narrativa, también podés visitar las páginas de [Investigación](investigacion.qmd) y [Actividad Académica](actividad-academica.qmd).
+La versión actual fue actualizada en **diciembre de 2025**. Podés encontrar más información sobre mi trabajo en las páginas de [Investigación](investigacion.qmd) y [Actividad Académica](actividad-academica.qmd).
 
 [Descargar CV (PDF)](/assets/cv/CV_Kulemeyer_122025.pdf){.button-primary download="CV_Guillermo_Kulemeyer_122025.pdf"}
 

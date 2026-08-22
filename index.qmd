@@ -1,7 +1,7 @@
 ---
 title: "Guillermo Kulemeyer"
 subtitle: "Physicist and PhD student in Computational Intelligence"
-description-meta: "Guillermo Kulemeyer works on machine learning, bioinformatics, and structural modeling of RNA and biomolecular ensembles."
+description-meta: "Guillermo Kulemeyer works on deep learning, bioinformatics, and predictive and generative modeling of RNA structure."
 image: assets/img/me.jpg
 page-layout: full
 header-includes: |
@@ -15,9 +15,9 @@ header-includes: |
 :::
 
 ::: {.hero-copy}
-I'm interested in how machine learning can help us understand RNA structure, from reliable prediction to the generation of diverse structural ensembles. My work brings together bioinformatics, deep learning, and statistical physics.
+My main interest is deep learning. In my current research, I develop predictive and generative models for RNA structure, with a focus on evaluation, structural diversity, and uncertainty.
 
-What draws me to these problems is that a single prediction cannot always capture the full structural picture. Predictive models help identify reliable signals from a sequence, while generative models make it possible to explore alternative structures, diversity, and uncertainty.
+I trained as a physicist and now work on problems that bring machine learning and bioinformatics together.
 
 ::: {.hero-actions}
 [Explore my research](research.qmd){.button-primary}
@@ -26,28 +26,24 @@ What draws me to these problems is that a single prediction cannot always captur
 :::
 :::
 
-## Selected Work
+## Current Focus
 
 ::: {.work-grid}
 ::: {.work-item}
-### [Generative RNA Modeling](research.qmd#generating-rna-structural-ensembles)
+### [Deep Learning for RNA Structure](research.qmd)
 
-I develop conditional discrete diffusion models that sample RNA secondary structures, moving beyond a single answer to study the diversity of plausible ensembles.
+I develop neural models for RNA secondary structure and study how their performance changes across datasets, sequence similarities, and RNA families.
 :::
 
 ::: {.work-item}
-### [Reliable Model Evaluation](research.qmd#evaluating-generalization-in-rna-prediction)
+### [Generative Modeling](research.qmd#generating-rna-structural-ensembles)
 
-I study family-aware and sequence-similarity evaluation to understand when RNA prediction models genuinely generalize beyond familiar examples.
+I use conditional discrete diffusion models to sample multiple plausible structures and represent diversity beyond a single prediction.
 :::
 
 ::: {.work-item}
-### [Teaching Neural Networks](academic-activity.qmd#current-appointments)
+### [Evaluation and Generalization](research.qmd#evaluating-generalization-in-rna-prediction)
 
-I teach Neural Networks I and II, helping students connect mathematical foundations, implementation choices, and modern deep-learning practice.
+I compare models under family-aware and sequence-similarity evaluation to understand when they generalize to less familiar examples.
 :::
 :::
-
-## Open to Conversation
-
-I enjoy exchanging ideas about RNA modeling, machine learning, reproducible research, and teaching. If our interests overlap, [I'd be glad to hear from you](contact.qmd).

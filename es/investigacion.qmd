@@ -1,15 +1,15 @@
 ---
 title: "Investigación"
 subtitle: "Preguntas, métodos y colaboraciones actuales"
-description-meta: "Investigación de Guillermo Kulemeyer sobre estructura de ARN, difusión discreta, generalización de modelos y ensembles biomoleculares."
+description-meta: "Investigación de Guillermo Kulemeyer sobre deep learning para estructura de ARN, difusión discreta, generalización de modelos y ensembles biomoleculares."
 header-includes: |
   <link rel="alternate" hreflang="en" href="https://gkulemeyer.github.io/research.html">
   <link rel="alternate" hreflang="es" href="https://gkulemeyer.github.io/es/investigacion.html">
 ---
 
-Mi investigación doctoral reúne dos objetivos complementarios: los modelos predictivos buscan una estimación estructural precisa a partir de una secuencia, mientras que los modelos generativos buscan una distribución de estructuras plausibles que represente diversidad e incertidumbre.
+El deep learning es el foco metodológico de mi investigación doctoral. Utilizo modelos predictivos para estimar la estructura del ARN a partir de su secuencia y modelos generativos para representar múltiples estructuras plausibles, diversidad e incertidumbre.
 
-No solo me interesa construir modelos, sino también comprender qué significan sus resultados y en qué condiciones podemos confiar en ellos. Esto requiere prestar atención a los datos, a las decisiones de evaluación y a la diferencia entre obtener buenos resultados sobre secuencias conocidas y generalizar a ejemplos realmente distintos.
+Mi trabajo actual se centra en la estructura secundaria del ARN. Además del desarrollo de modelos, estudio cómo los datos y las decisiones de evaluación afectan las conclusiones sobre rendimiento y generalización.
 
 ## Generación de ensembles estructurales de ARN
 
@@ -20,7 +20,7 @@ No solo me interesa construir modelos, sino también comprender qué significan 
 
 **Por qué importa.**
 
-Una secuencia de ARN puede ser compatible con estructuras alternativas. Representar estas posibilidades como un ensemble ofrece una mirada más rica que una única predicción y permite estudiar directamente la diversidad, el consenso y la incertidumbre.
+El ARN puede adoptar estructuras secundarias alternativas. Un ensemble representa esta variabilidad mejor que una única predicción y permite analizar diversidad, consenso e incertidumbre.
 
 **Mi trabajo.**
 
@@ -46,11 +46,9 @@ Estudio regímenes de evaluación basados en familias y similitud de secuencia e
 ## Ensembles biomoleculares más allá del ARN
 
 ::: {.research-line}
-En el marco de la colaboración **IDPfun2 Marie Skłodowska-Curie Staff Exchanges**, también exploro el modelado generativo de ensembles de proteínas ordenadas e intrínsecamente desordenadas. Este trabajo conecta el muestreo computacional con interpretaciones del paisaje energético basadas en física estadística.
-
-Trabajar más allá del ARN también me permite mirar desde otra perspectiva una pregunta que atraviesa mi investigación: ¿cómo pueden los modelos computacionales representar sistemas cuyo comportamiento se describe mejor mediante un conjunto de estados que a través de una única estructura?
+En el marco de la colaboración **IDPfun2 Marie Skłodowska-Curie Staff Exchanges**, también aplico modelado generativo a ensembles de proteínas ordenadas e intrínsecamente desordenadas. Este trabajo conecta el muestreo computacional con interpretaciones del paisaje energético basadas en física estadística.
 :::
 
 ## Cómo trabajo
 
-En estos proyectos valoro el código reproducible, las decisiones de evaluación explícitas y las comparaciones que permiten ver las limitaciones de cada modelo. Disfruto trabajar en el cruce entre la intuición física y los métodos basados en datos, donde las decisiones de modelado pueden discutirse tanto desde una perspectiva computacional como científica.
+En estos proyectos utilizo pipelines reproducibles, documento las decisiones de evaluación y comparo los modelos bajo condiciones bien definidas. Esto permite distinguir las mejoras del modelo de los efectos introducidos por los datos o por el esquema de evaluación.

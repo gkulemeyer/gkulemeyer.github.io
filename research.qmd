@@ -1,15 +1,15 @@
 ---
 title: "Research"
 subtitle: "Questions, methods, and current collaborations"
-description-meta: "Research by Guillermo Kulemeyer on RNA structure prediction, discrete diffusion, model generalization, and biomolecular ensembles."
+description-meta: "Research by Guillermo Kulemeyer on deep learning for RNA structure, discrete diffusion, model generalization, and biomolecular ensembles."
 header-includes: |
   <link rel="alternate" hreflang="en" href="https://gkulemeyer.github.io/research.html">
   <link rel="alternate" hreflang="es" href="https://gkulemeyer.github.io/es/investigacion.html">
 ---
 
-My doctoral research brings together two complementary aims: predictive models seek an accurate structural estimate from a sequence, while generative models seek a distribution of plausible structures that represents diversity and uncertainty.
+Deep learning is the methodological focus of my doctoral research. I use predictive models to estimate RNA structure from sequence and generative models to represent multiple plausible structures, diversity, and uncertainty.
 
-I am interested not only in building models, but also in understanding what their outputs mean and when they can be trusted. This means paying close attention to data, evaluation choices, and the difference between performing well on familiar sequences and generalizing to genuinely different examples.
+My work currently centers on RNA secondary structure. Alongside model development, I study how data and evaluation choices affect the conclusions we draw about model performance and generalization.
 
 ## Generating RNA Structural Ensembles
 
@@ -20,7 +20,7 @@ How can a model produce multiple plausible RNA secondary structures conditioned 
 
 **Why it matters.**
 
-RNA sequences may be compatible with alternative structures. Representing these possibilities as an ensemble provides a richer view than a single prediction and allows us to study diversity, consensus, and uncertainty directly.
+RNA can adopt alternative secondary structures. An ensemble captures this variability better than a single prediction and makes it possible to analyze diversity, consensus, and uncertainty.
 
 **What I do.**
 
@@ -46,11 +46,9 @@ I study family-aware and sequence-similarity evaluation regimes across RNA datas
 ## Biomolecular Ensembles Beyond RNA
 
 ::: {.research-line}
-Through the **IDPfun2 Marie Skłodowska-Curie Staff Exchanges** collaboration, I also explore generative modeling of ordered and intrinsically disordered protein ensembles. This work connects computational sampling with energy-landscape interpretations grounded in statistical physics.
-
-Working beyond RNA also gives me a broader perspective on a question that runs through my research: how can computational models represent systems whose behavior is better described by a collection of states than by a single structure?
+Through the **IDPfun2 Marie Skłodowska-Curie Staff Exchanges** collaboration, I also apply generative modeling to ordered and intrinsically disordered protein ensembles. This work connects computational sampling with energy-landscape interpretations grounded in statistical physics.
 :::
 
 ## How I Work
 
-Across these projects, I value reproducible code, explicit evaluation decisions, and comparisons that make the limitations of each model visible. I enjoy working at the intersection of physical intuition and data-driven methods, where modeling choices can be discussed from both computational and scientific perspectives.
+Across these projects, I use reproducible pipelines, document evaluation decisions, and compare models under clearly defined conditions. This helps separate improvements in the model from effects introduced by the data or the evaluation setup.
