@@ -9,32 +9,48 @@ header-includes: |
 
 Mi investigación doctoral reúne dos objetivos complementarios: los modelos predictivos buscan una estimación estructural precisa a partir de una secuencia, mientras que los modelos generativos buscan una distribución de estructuras plausibles que represente diversidad e incertidumbre.
 
-## Generación de Ensembles Estructurales de ARN
+No solo me interesa construir modelos, sino también comprender qué significan sus resultados y en qué condiciones podemos confiar en ellos. Esto requiere prestar atención a los datos, a las decisiones de evaluación y a la diferencia entre obtener buenos resultados sobre secuencias conocidas y generalizar a ejemplos realmente distintos.
+
+## Generación de ensembles estructurales de ARN
 
 ::: {.research-line}
 **La pregunta.**
 
 ¿Cómo puede un modelo producir múltiples estructuras secundarias de ARN plausibles, condicionadas por una secuencia de nucleótidos, en lugar de devolver una única estimación?
 
+**Por qué importa.**
+
+Una secuencia de ARN puede ser compatible con estructuras alternativas. Representar estas posibilidades como un ensemble ofrece una mirada más rica que una única predicción y permite estudiar directamente la diversidad, el consenso y la incertidumbre.
+
 **Mi trabajo.**
 
 Desarrollo modelos de difusión discreta condicional con arquitecturas neuronales bidimensionales para muestrear estructuras secundarias de ARN. Mi trabajo incluye pipelines reproducibles de entrenamiento y muestreo, junto con evaluación a nivel de ensemble mediante criterios de consenso, energía y diversidad estructural.
 :::
 
-## Evaluación de la Generalización en Predicción de ARN
+## Evaluación de la generalización en predicción de ARN
 
 ::: {.research-line}
 **La pregunta.**
 
 ¿Cómo deben evaluarse los predictores de estructura de ARN cuando las secuencias de entrenamiento y prueba tienen distintos grados de similitud o pertenecen a diferentes familias de ARN?
 
+**Por qué importa.**
+
+Los resultados de una evaluación dependen de cómo se dividen los datos. Si secuencias muy relacionadas aparecen tanto en entrenamiento como en prueba, un buen rendimiento puede no reflejar la capacidad de generalizar a familias de ARN menos conocidas.
+
 **Mi trabajo.**
 
 Estudio regímenes de evaluación basados en familias y similitud de secuencia en conjuntos de datos de ARN. Mi contribución se centra en la comparación reproducible de predictores clásicos y de aprendizaje profundo, y en identificar cuándo el rendimiento aparente depende de la composición de la partición de evaluación.
 :::
 
-## Ensembles Biomoleculares Más Allá del ARN
+## Ensembles biomoleculares más allá del ARN
 
 ::: {.research-line}
 En el marco de la colaboración **IDPfun2 Marie Skłodowska-Curie Staff Exchanges**, también exploro el modelado generativo de ensembles de proteínas ordenadas e intrínsecamente desordenadas. Este trabajo conecta el muestreo computacional con interpretaciones del paisaje energético basadas en física estadística.
+
+Trabajar más allá del ARN también me permite mirar desde otra perspectiva una pregunta que atraviesa mi investigación: ¿cómo pueden los modelos computacionales representar sistemas cuyo comportamiento se describe mejor mediante un conjunto de estados que a través de una única estructura?
 :::
+
+## Cómo trabajo
+
+En estos proyectos valoro el código reproducible, las decisiones de evaluación explícitas y las comparaciones que permiten ver las limitaciones de cada modelo. Disfruto trabajar en el cruce entre la intuición física y los métodos basados en datos, donde las decisiones de modelado pueden discutirse tanto desde una perspectiva computacional como científica.

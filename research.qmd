@@ -9,12 +9,18 @@ header-includes: |
 
 My doctoral research brings together two complementary aims: predictive models seek an accurate structural estimate from a sequence, while generative models seek a distribution of plausible structures that represents diversity and uncertainty.
 
+I am interested not only in building models, but also in understanding what their outputs mean and when they can be trusted. This means paying close attention to data, evaluation choices, and the difference between performing well on familiar sequences and generalizing to genuinely different examples.
+
 ## Generating RNA Structural Ensembles
 
 ::: {.research-line}
 **The question.**
 
 How can a model produce multiple plausible RNA secondary structures conditioned on a nucleotide sequence rather than returning only one estimate?
+
+**Why it matters.**
+
+RNA sequences may be compatible with alternative structures. Representing these possibilities as an ensemble provides a richer view than a single prediction and allows us to study diversity, consensus, and uncertainty directly.
 
 **What I do.**
 
@@ -28,6 +34,10 @@ I develop conditional discrete diffusion models with two-dimensional neural arch
 
 How should RNA structure predictors be evaluated when training and test sequences share different degrees of similarity or belong to different RNA families?
 
+**Why it matters.**
+
+Evaluation results depend on how data are divided. If closely related sequences appear across training and test sets, strong performance may not reflect the ability to generalize to less familiar RNA families.
+
 **What I do.**
 
 I study family-aware and sequence-similarity evaluation regimes across RNA datasets. My contribution focuses on reproducible comparison of classical and deep-learning predictors and on identifying when apparent predictive performance depends on the composition of the evaluation split.
@@ -37,4 +47,10 @@ I study family-aware and sequence-similarity evaluation regimes across RNA datas
 
 ::: {.research-line}
 Through the **IDPfun2 Marie Skłodowska-Curie Staff Exchanges** collaboration, I also explore generative modeling of ordered and intrinsically disordered protein ensembles. This work connects computational sampling with energy-landscape interpretations grounded in statistical physics.
+
+Working beyond RNA also gives me a broader perspective on a question that runs through my research: how can computational models represent systems whose behavior is better described by a collection of states than by a single structure?
 :::
+
+## How I Work
+
+Across these projects, I value reproducible code, explicit evaluation decisions, and comparisons that make the limitations of each model visible. I enjoy working at the intersection of physical intuition and data-driven methods, where modeling choices can be discussed from both computational and scientific perspectives.

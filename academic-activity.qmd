@@ -7,6 +7,8 @@ header-includes: |
   <link rel="alternate" hreflang="es" href="https://gkulemeyer.github.io/es/actividad-academica.html">
 ---
 
+My academic path connects physics, machine learning, and bioinformatics. Research gives me a space to explore open questions in biomolecular modeling, while teaching helps me revisit foundational ideas and communicate them with clarity.
+
 ## Current Appointments
 
 ::: {.timeline}
@@ -15,7 +17,7 @@ header-includes: |
 
 **2025–present**
 
-My doctoral work explores predictive and generative modeling of RNA secondary structure, supervised by Prof. Diego H. Milone and Dr. Leandro Bugnon.
+My doctoral work explores predictive and generative modeling of RNA secondary structure, supervised by Prof. Diego H. Milone and Dr. Leandro Bugnon. My day-to-day work combines model development, data analysis, reproducible experiments, and the interpretation of results across computational and biological perspectives.
 :::
 
 ::: {.timeline-item}
@@ -23,7 +25,7 @@ My doctoral work explores predictive and generative modeling of RNA secondary st
 
 **Facultad de Ingeniería y Ciencias Hídricas, Universidad Nacional del Litoral · 2026–present**
 
-I teach Neural Networks I and Neural Networks II as an *Ayudante de Primera* in the [Ingeniería en Inteligencia Artificial](https://www.unl.edu.ar/carreras/ingenieria-en-inteligencia-artificial/) program.
+I teach Neural Networks I and Neural Networks II as an *Ayudante de Primera* in the [Ingeniería en Inteligencia Artificial](https://www.unl.edu.ar/carreras/ingenieria-en-inteligencia-artificial/) program. I aim to help students connect mathematical concepts with implementation decisions and develop an informed, practical understanding of how neural models behave.
 :::
 
 :::
@@ -36,12 +38,16 @@ Thesis topic: generative models for joint sequence-structure representations and
 **Licentiate Degree in Physics**, Universidad Nacional de Rosario, 2016–2024<br>
 Thesis on machine-learning simulations of dissociative adsorption of methane on Pt(110)-(1×2).
 
+My training in physics shaped the way I approach computational problems: by looking for interpretable models, carefully defined assumptions, and connections between numerical results and the systems they describe.
+
 ## Previous Research
 
 **Instituto de Física Rosario (IFIR), UNR-CONICET · 2022–2024**<br>
-EVC-CIN undergraduate research fellow working on neural-network interatomic potentials and computational simulations of methane adsorption on platinum surfaces.
+As an EVC-CIN undergraduate research fellow, I worked on neural-network interatomic potentials and computational simulations of methane adsorption on platinum surfaces. This experience introduced me to data-driven scientific modeling and provided the foundation for my later work at the intersection of machine learning and molecular systems.
 
 ## Selected Presentations
+
+These presentations reflect the transition from my early work in computational surface physics to my current focus on RNA structure and bioinformatics.
 
 **I Jornada Argentina de Bioinformática y Biología Computacional · 2025**<br>
 Poster: “Enhancing Deep Learning Prediction of Base-Pairing Probability in RNA Sequences Using Structural Diversity.”

@@ -7,15 +7,17 @@ header-includes: |
   <link rel="alternate" hreflang="es" href="https://gkulemeyer.github.io/es/actividad-academica.html">
 ---
 
-## Actividades Actuales
+Mi recorrido académico conecta la física, el aprendizaje automático y la bioinformática. La investigación me permite explorar preguntas abiertas sobre modelado biomolecular, mientras que la docencia me invita a volver sobre ideas fundamentales y comunicarlas con claridad.
+
+## Actividades actuales
 
 ::: {.timeline}
 ::: {.timeline-item}
-### Becario Doctoral del CONICET
+### Becario doctoral del CONICET
 
 **2025–actualidad**
 
-Mi trabajo doctoral explora el modelado predictivo y generativo de la estructura secundaria del ARN, bajo la dirección del Prof. Diego H. Milone y el Dr. Leandro Bugnon.
+Mi trabajo doctoral explora el modelado predictivo y generativo de la estructura secundaria del ARN, bajo la dirección del Prof. Diego H. Milone y el Dr. Leandro Bugnon. En el trabajo cotidiano combino desarrollo de modelos, análisis de datos, experimentos reproducibles e interpretación de resultados desde perspectivas computacionales y biológicas.
 :::
 
 ::: {.timeline-item}
@@ -23,7 +25,7 @@ Mi trabajo doctoral explora el modelado predictivo y generativo de la estructura
 
 **Facultad de Ingeniería y Ciencias Hídricas, Universidad Nacional del Litoral · 2026–actualidad**
 
-Soy docente de Redes Neuronales I y Redes Neuronales II como Ayudante de Primera en la carrera [Ingeniería en Inteligencia Artificial](https://www.unl.edu.ar/carreras/ingenieria-en-inteligencia-artificial/).
+Soy docente de Redes Neuronales I y Redes Neuronales II como Ayudante de Primera en la carrera [Ingeniería en Inteligencia Artificial](https://www.unl.edu.ar/carreras/ingenieria-en-inteligencia-artificial/). Busco que los estudiantes conecten los conceptos matemáticos con las decisiones de implementación y desarrollen una comprensión práctica y fundamentada del comportamiento de los modelos neuronales.
 :::
 
 :::
@@ -36,12 +38,16 @@ Tema de tesis: modelos generativos para representaciones conjuntas de secuencia 
 **Licenciatura en Física**, Universidad Nacional de Rosario, 2016–2024<br>
 Tesina sobre simulaciones de la adsorción disociativa de metano en Pt(110)-(1×2) mediante aprendizaje automático.
 
-## Investigación Previa
+Mi formación en física marcó la forma en que abordo los problemas computacionales: buscando modelos interpretables, supuestos bien definidos y conexiones entre los resultados numéricos y los sistemas que describen.
+
+## Investigación previa
 
 **Instituto de Física Rosario (IFIR), UNR-CONICET · 2022–2024**<br>
-Becario EVC-CIN en potenciales interatómicos basados en redes neuronales y simulaciones computacionales de adsorción de metano sobre superficies de platino.
+Como becario EVC-CIN, trabajé en potenciales interatómicos basados en redes neuronales y simulaciones computacionales de adsorción de metano sobre superficies de platino. Esta experiencia me acercó al modelado científico basado en datos y sentó las bases de mi trabajo posterior en la intersección entre aprendizaje automático y sistemas moleculares.
 
-## Presentaciones Seleccionadas
+## Presentaciones seleccionadas
+
+Estas presentaciones reflejan la transición desde mis primeros trabajos en física computacional de superficies hasta mi interés actual en estructura de ARN y bioinformática.
 
 **I Jornada Argentina de Bioinformática y Biología Computacional · 2025**<br>
 Póster: “Enhancing Deep Learning Prediction of Base-Pairing Probability in RNA Sequences Using Structural Diversity”.

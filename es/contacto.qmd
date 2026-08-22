@@ -8,6 +8,8 @@ header-includes: |
 
 ¿Te interesa conversar sobre modelado de ARN, aprendizaje automático, docencia o una posible colaboración? Será un gusto leerte.
 
+Si tenés una pregunta de investigación, encontrás algún punto de contacto entre nuestros trabajos o simplemente querés intercambiar ideas, no dudes en escribirme. Los mensajes de estudiantes e investigadores que están comenzando su recorrido también son muy bienvenidos.
+
 ## Correo
 
 La mejor forma de contactarme es por correo:

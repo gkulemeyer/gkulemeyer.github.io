@@ -17,7 +17,7 @@ header-includes: |
 ::: {.hero-copy}
 Me interesa estudiar cómo el aprendizaje automático puede ayudarnos a comprender la estructura del ARN, desde una predicción confiable hasta la generación de ensembles estructurales diversos. En mi trabajo combino bioinformática, aprendizaje profundo y física estadística.
 
-Los modelos predictivos estiman propiedades estructurales a partir de una secuencia; los modelos generativos producen múltiples estructuras plausibles para representar diversidad e incertidumbre.
+Lo que me atrae de estos problemas es que una única predicción no siempre alcanza para describir todo el panorama estructural. Los modelos predictivos permiten identificar señales confiables a partir de una secuencia, mientras que los modelos generativos ayudan a explorar estructuras alternativas, diversidad e incertidumbre.
 
 ::: {.hero-actions}
 [Conocer mi investigación](investigacion.qmd){.button-primary}
@@ -26,24 +26,28 @@ Los modelos predictivos estiman propiedades estructurales a partir de una secuen
 :::
 :::
 
-## Trabajo Seleccionado
+## Áreas de trabajo
 
 ::: {.work-grid}
 ::: {.work-item}
-### Modelado Generativo de ARN
+### [Modelado generativo de ARN](investigacion.qmd#generación-de-ensembles-estructurales-de-arn)
 
-Modelos de difusión discreta condicional para muestrear estructuras secundarias y estudiar ensembles de ARN más allá de una única predicción.
+Desarrollo modelos de difusión discreta condicional que muestrean estructuras secundarias de ARN para estudiar la diversidad de ensembles plausibles más allá de una única respuesta.
 :::
 
 ::: {.work-item}
-### Evaluación Confiable de Modelos
+### [Evaluación confiable de modelos](investigacion.qmd#evaluación-de-la-generalización-en-predicción-de-arn)
 
-Evaluación por familias y similitud de secuencia para comprender cómo generalizan los modelos de predicción de ARN más allá de ejemplos conocidos.
+Estudio evaluaciones por familias y similitud de secuencia para comprender cuándo los modelos de predicción de ARN realmente generalizan más allá de ejemplos conocidos.
 :::
 
 ::: {.work-item}
-### Docencia en Redes Neuronales
+### [Docencia en redes neuronales](actividad-academica.qmd#actividades-actuales)
 
-Docencia en Redes Neuronales I y II, conectando conceptos fundamentales con la práctica moderna del aprendizaje profundo.
+Enseño Redes Neuronales I y II, buscando que los estudiantes conecten los fundamentos matemáticos, las decisiones de implementación y la práctica moderna del aprendizaje profundo.
 :::
 :::
+
+## Abierto a conversar
+
+Disfruto intercambiar ideas sobre modelado de ARN, aprendizaje automático, investigación reproducible y docencia. Si compartimos intereses, [será un gusto conversar](contacto.qmd).

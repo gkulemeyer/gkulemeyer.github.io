@@ -17,7 +17,7 @@ header-includes: |
 ::: {.hero-copy}
 I'm interested in how machine learning can help us understand RNA structure, from reliable prediction to the generation of diverse structural ensembles. My work brings together bioinformatics, deep learning, and statistical physics.
 
-Predictive models estimate structural properties from a sequence; generative models sample multiple plausible structures to represent diversity and uncertainty.
+What draws me to these problems is that a single prediction cannot always capture the full structural picture. Predictive models help identify reliable signals from a sequence, while generative models make it possible to explore alternative structures, diversity, and uncertainty.
 
 ::: {.hero-actions}
 [Explore my research](research.qmd){.button-primary}
@@ -30,20 +30,24 @@ Predictive models estimate structural properties from a sequence; generative mod
 
 ::: {.work-grid}
 ::: {.work-item}
-### Generative RNA Modeling
+### [Generative RNA Modeling](research.qmd#generating-rna-structural-ensembles)
 
-Conditional discrete diffusion models for sampling secondary structures and studying RNA ensembles beyond a single prediction.
+I develop conditional discrete diffusion models that sample RNA secondary structures, moving beyond a single answer to study the diversity of plausible ensembles.
 :::
 
 ::: {.work-item}
-### Reliable Model Evaluation
+### [Reliable Model Evaluation](research.qmd#evaluating-generalization-in-rna-prediction)
 
-Family-aware and sequence-similarity evaluation to understand how RNA prediction models generalize beyond familiar examples.
+I study family-aware and sequence-similarity evaluation to understand when RNA prediction models genuinely generalize beyond familiar examples.
 :::
 
 ::: {.work-item}
-### Teaching Neural Networks
+### [Teaching Neural Networks](academic-activity.qmd#current-appointments)
 
-Teaching Neural Networks I and II, connecting foundational concepts with modern deep-learning practice.
+I teach Neural Networks I and II, helping students connect mathematical foundations, implementation choices, and modern deep-learning practice.
 :::
 :::
+
+## Open to Conversation
+
+I enjoy exchanging ideas about RNA modeling, machine learning, reproducible research, and teaching. If our interests overlap, [I'd be glad to hear from you](contact.qmd).

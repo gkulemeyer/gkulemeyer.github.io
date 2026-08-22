@@ -6,7 +6,9 @@ header-includes: |
   <link rel="alternate" hreflang="es" href="https://gkulemeyer.github.io/es/cv.html">
 ---
 
-Podés descargar mi CV público a continuación. Esta versión fue actualizada en **diciembre de 2025** y resume mi formación, experiencia en investigación, becas, presentaciones y experiencia profesional.
+Podés descargar mi CV público a continuación. Allí encontrarás un resumen de mi formación, experiencia en investigación, becas, presentaciones y recorrido profesional.
+
+La versión actual fue actualizada en **diciembre de 2025**. Para conocer mi trabajo de una manera más narrativa, también podés visitar las páginas de [Investigación](investigacion.qmd) y [Actividad Académica](actividad-academica.qmd).
 
 [Descargar CV (PDF)](/assets/cv/CV_Kulemeyer_122025.pdf){.button-primary download="CV_Guillermo_Kulemeyer_122025.pdf"}
 

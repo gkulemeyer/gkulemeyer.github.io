@@ -8,6 +8,8 @@ header-includes: |
 
 Interested in discussing RNA modeling, machine learning, teaching, or a possible collaboration? I'd be glad to hear from you.
 
+Whether you have a research question, see a connection between our work, or simply want to exchange ideas, feel free to write. Messages from students and early-career researchers are also very welcome.
+
 ## Email
 
 The best way to reach me is by email:
