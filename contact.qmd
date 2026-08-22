@@ -6,11 +6,13 @@ header-includes: |
   <link rel="alternate" hreflang="es" href="https://gkulemeyer.github.io/es/contacto.html">
 ---
 
+Interested in discussing RNA modeling, machine learning, teaching, or a possible collaboration? I'd be glad to hear from you.
+
 ## Email
 
-[gkulemeyer@sinc.unl.edu.ar](mailto:gkulemeyer@sinc.unl.edu.ar){.contact-primary}
+The best way to reach me is by email:
 
-For research conversations, academic opportunities, or teaching-related inquiries.
+[gkulemeyer@sinc.unl.edu.ar](mailto:gkulemeyer@sinc.unl.edu.ar){.contact-primary}
 
 ## Profiles
 

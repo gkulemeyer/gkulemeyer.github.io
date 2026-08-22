@@ -6,11 +6,13 @@ header-includes: |
   <link rel="alternate" hreflang="es" href="https://gkulemeyer.github.io/es/contacto.html">
 ---
 
+¿Te interesa conversar sobre modelado de ARN, aprendizaje automático, docencia o una posible colaboración? Será un gusto leerte.
+
 ## Correo
 
-[gkulemeyer@sinc.unl.edu.ar](mailto:gkulemeyer@sinc.unl.edu.ar){.contact-primary}
+La mejor forma de contactarme es por correo:
 
-Para conversaciones sobre investigación, oportunidades académicas o consultas relacionadas con docencia.
+[gkulemeyer@sinc.unl.edu.ar](mailto:gkulemeyer@sinc.unl.edu.ar){.contact-primary}
 
 ## Perfiles
 

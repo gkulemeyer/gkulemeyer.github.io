@@ -15,7 +15,7 @@ header-includes: |
 
 **2025–present**
 
-Doctoral research on predictive and generative modeling of RNA secondary structure, supervised by Prof. Diego H. Milone and Dr. Leandro Bugnon.
+My doctoral work explores predictive and generative modeling of RNA secondary structure, supervised by Prof. Diego H. Milone and Dr. Leandro Bugnon.
 :::
 
 ::: {.timeline-item}
@@ -23,7 +23,7 @@ Doctoral research on predictive and generative modeling of RNA secondary structu
 
 **Facultad de Ingeniería y Ciencias Hídricas, Universidad Nacional del Litoral · 2026–present**
 
-Teaching assistant (*Ayudante de Primera*) for Neural Networks I and Neural Networks II in the [Ingeniería en Inteligencia Artificial](https://www.unl.edu.ar/carreras/ingenieria-en-inteligencia-artificial/) program.
+I teach Neural Networks I and Neural Networks II as an *Ayudante de Primera* in the [Ingeniería en Inteligencia Artificial](https://www.unl.edu.ar/carreras/ingenieria-en-inteligencia-artificial/) program.
 :::
 
 :::

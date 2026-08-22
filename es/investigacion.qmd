@@ -7,16 +7,16 @@ header-includes: |
   <link rel="alternate" hreflang="es" href="https://gkulemeyer.github.io/es/investigacion.html">
 ---
 
-Mi investigación doctoral tiene dos objetivos complementarios: los modelos predictivos buscan una estimación estructural precisa a partir de una secuencia, mientras que los modelos generativos buscan una distribución de estructuras plausibles que represente diversidad e incertidumbre.
+Mi investigación doctoral reúne dos objetivos complementarios: los modelos predictivos buscan una estimación estructural precisa a partir de una secuencia, mientras que los modelos generativos buscan una distribución de estructuras plausibles que represente diversidad e incertidumbre.
 
 ## Generación de Ensembles Estructurales de ARN
 
 ::: {.research-line}
-**Pregunta científica.**
+**La pregunta.**
 
 ¿Cómo puede un modelo producir múltiples estructuras secundarias de ARN plausibles, condicionadas por una secuencia de nucleótidos, en lugar de devolver una única estimación?
 
-**Enfoque y contribución.**
+**Mi trabajo.**
 
 Desarrollo modelos de difusión discreta condicional con arquitecturas neuronales bidimensionales para muestrear estructuras secundarias de ARN. Mi trabajo incluye pipelines reproducibles de entrenamiento y muestreo, junto con evaluación a nivel de ensemble mediante criterios de consenso, energía y diversidad estructural.
 :::
@@ -24,11 +24,11 @@ Desarrollo modelos de difusión discreta condicional con arquitecturas neuronale
 ## Evaluación de la Generalización en Predicción de ARN
 
 ::: {.research-line}
-**Pregunta científica.**
+**La pregunta.**
 
 ¿Cómo deben evaluarse los predictores de estructura de ARN cuando las secuencias de entrenamiento y prueba tienen distintos grados de similitud o pertenecen a diferentes familias de ARN?
 
-**Enfoque y contribución.**
+**Mi trabajo.**
 
 Estudio regímenes de evaluación basados en familias y similitud de secuencia en conjuntos de datos de ARN. Mi contribución se centra en la comparación reproducible de predictores clásicos y de aprendizaje profundo, y en identificar cuándo el rendimiento aparente depende de la composición de la partición de evaluación.
 :::
@@ -36,5 +36,5 @@ Estudio regímenes de evaluación basados en familias y similitud de secuencia e
 ## Ensembles Biomoleculares Más Allá del ARN
 
 ::: {.research-line}
-En el marco de la colaboración **IDPfun2 Marie Skłodowska-Curie Staff Exchanges**, trabajo en modelado generativo de ensembles de proteínas ordenadas e intrínsecamente desordenadas. Esta línea conecta el muestreo computacional con interpretaciones del paisaje energético basadas en física estadística.
+En el marco de la colaboración **IDPfun2 Marie Skłodowska-Curie Staff Exchanges**, también exploro el modelado generativo de ensembles de proteínas ordenadas e intrínsecamente desordenadas. Este trabajo conecta el muestreo computacional con interpretaciones del paisaje energético basadas en física estadística.
 :::

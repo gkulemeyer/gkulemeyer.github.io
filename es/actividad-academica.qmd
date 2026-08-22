@@ -15,7 +15,7 @@ header-includes: |
 
 **2025–actualidad**
 
-Investigación doctoral sobre modelado predictivo y generativo de estructura secundaria de ARN, bajo la dirección del Prof. Diego H. Milone y el Dr. Leandro Bugnon.
+Mi trabajo doctoral explora el modelado predictivo y generativo de la estructura secundaria del ARN, bajo la dirección del Prof. Diego H. Milone y el Dr. Leandro Bugnon.
 :::
 
 ::: {.timeline-item}
@@ -23,7 +23,7 @@ Investigación doctoral sobre modelado predictivo y generativo de estructura sec
 
 **Facultad de Ingeniería y Ciencias Hídricas, Universidad Nacional del Litoral · 2026–actualidad**
 
-Docencia en Redes Neuronales I y Redes Neuronales II de la carrera [Ingeniería en Inteligencia Artificial](https://www.unl.edu.ar/carreras/ingenieria-en-inteligencia-artificial/).
+Soy docente de Redes Neuronales I y Redes Neuronales II como Ayudante de Primera en la carrera [Ingeniería en Inteligencia Artificial](https://www.unl.edu.ar/carreras/ingenieria-en-inteligencia-artificial/).
 :::
 
 :::

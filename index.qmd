@@ -15,7 +15,7 @@ header-includes: |
 :::
 
 ::: {.hero-copy}
-I study how machine learning can predict RNA secondary structure and generate diverse structural ensembles. My work combines bioinformatics, deep learning, and statistical physics.
+I'm interested in how machine learning can help us understand RNA structure, from reliable prediction to the generation of diverse structural ensembles. My work brings together bioinformatics, deep learning, and statistical physics.
 
 Predictive models estimate structural properties from a sequence; generative models sample multiple plausible structures to represent diversity and uncertainty.
 
