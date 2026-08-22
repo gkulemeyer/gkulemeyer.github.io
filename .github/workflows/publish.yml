@@ -1,20 +1,23 @@
-name: Publish Quarto Site
+name: Build and Publish Quarto Site
 
 on:
   workflow_dispatch:
   push:
     branches:
       - main
+  pull_request:
+    branches:
+      - main
 
 concurrency:
-  group: pages
+  group: quarto-${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
-  build-deploy:
+  render:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: read
 
     steps:
       - name: Check out repository
@@ -30,6 +33,28 @@ jobs:
 
       - name: Disable Jekyll processing
         run: touch _site/.nojekyll
+
+      - name: Store rendered website
+        uses: actions/upload-artifact@v4
+        with:
+          name: quarto-site-${{ github.sha }}
+          path: _site
+          include-hidden-files: true
+          retention-days: 1
+
+  deploy:
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+    needs: render
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Download rendered website
+        uses: actions/download-artifact@v4
+        with:
+          name: quarto-site-${{ github.sha }}
+          path: _site
 
       - name: Publish website to gh-pages
         uses: peaceiris/actions-gh-pages@v4
