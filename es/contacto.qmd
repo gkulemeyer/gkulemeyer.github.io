@@ -6,11 +6,9 @@ header-includes: |
   <link rel="alternate" hreflang="es" href="https://gkulemeyer.github.io/es/contacto.html">
 ---
 
-Si querés conversar sobre deep learning, modelado de ARN, docencia o una posible colaboración, no dudes en escribirme.
+Para consultas sobre investigación, docencia o posibles colaboraciones, podés escribirme por correo.
 
 ## Correo
-
-La mejor forma de contactarme es por correo:
 
 [gkulemeyer@sinc.unl.edu.ar](mailto:gkulemeyer@sinc.unl.edu.ar){.contact-primary}
 

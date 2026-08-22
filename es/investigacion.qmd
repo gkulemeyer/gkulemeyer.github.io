@@ -7,22 +7,14 @@ header-includes: |
   <link rel="alternate" hreflang="es" href="https://gkulemeyer.github.io/es/investigacion.html">
 ---
 
-El deep learning es el foco metodológico de mi investigación doctoral. Utilizo modelos predictivos para estimar la estructura del ARN a partir de su secuencia y modelos generativos para representar múltiples estructuras plausibles, diversidad e incertidumbre.
+Mi investigación se centra en deep learning para datos científicos estructurados. Actualmente trabajo con estructura secundaria de ARN, combinando modelos predictivos, modelos generativos y estrategias de evaluación orientadas a medir generalización.
 
-Mi trabajo actual se centra en la estructura secundaria del ARN. Además del desarrollo de modelos, estudio cómo los datos y las decisiones de evaluación afectan las conclusiones sobre rendimiento y generalización.
+En conjunto, estas líneas estudian cómo un modelo puede aprender relaciones útiles entre secuencia y estructura, representar alternativas plausibles y mantener un rendimiento confiable sobre datos menos conocidos.
 
 ## Generación de ensembles estructurales de ARN
 
 ::: {.research-line}
-**La pregunta.**
-
-¿Cómo puede un modelo producir múltiples estructuras secundarias de ARN plausibles, condicionadas por una secuencia de nucleótidos, en lugar de devolver una única estimación?
-
-**Por qué importa.**
-
-El ARN puede adoptar estructuras secundarias alternativas. Un ensemble representa esta variabilidad mejor que una única predicción y permite analizar diversidad, consenso e incertidumbre.
-
-**Mi trabajo.**
+El ARN puede adoptar estructuras secundarias alternativas, por lo que una única predicción puede dejar afuera variaciones relevantes. Los ensembles estructurales permiten estudiar directamente la diversidad, el consenso y la incertidumbre.
 
 Desarrollo modelos de difusión discreta condicional con arquitecturas neuronales bidimensionales para muestrear estructuras secundarias de ARN. Mi trabajo incluye pipelines reproducibles de entrenamiento y muestreo, junto con evaluación a nivel de ensemble mediante criterios de consenso, energía y diversidad estructural.
 :::
@@ -30,15 +22,7 @@ Desarrollo modelos de difusión discreta condicional con arquitecturas neuronale
 ## Evaluación de la generalización en predicción de ARN
 
 ::: {.research-line}
-**La pregunta.**
-
-¿Cómo deben evaluarse los predictores de estructura de ARN cuando las secuencias de entrenamiento y prueba tienen distintos grados de similitud o pertenecen a diferentes familias de ARN?
-
-**Por qué importa.**
-
-Los resultados de una evaluación dependen de cómo se dividen los datos. Si secuencias muy relacionadas aparecen tanto en entrenamiento como en prueba, un buen rendimiento puede no reflejar la capacidad de generalizar a familias de ARN menos conocidas.
-
-**Mi trabajo.**
+Un buen rendimiento no siempre implica una generalización amplia. Cuando hay secuencias muy relacionadas en los conjuntos de entrenamiento y prueba, la evaluación puede sobreestimar la capacidad del modelo para trabajar con familias de ARN menos conocidas.
 
 Estudio regímenes de evaluación basados en familias y similitud de secuencia en conjuntos de datos de ARN. Mi contribución se centra en la comparación reproducible de predictores clásicos y de aprendizaje profundo, y en identificar cuándo el rendimiento aparente depende de la composición de la partición de evaluación.
 :::
@@ -49,6 +33,6 @@ Estudio regímenes de evaluación basados en familias y similitud de secuencia e
 En el marco de la colaboración **IDPfun2 Marie Skłodowska-Curie Staff Exchanges**, también aplico modelado generativo a ensembles de proteínas ordenadas e intrínsecamente desordenadas. Este trabajo conecta el muestreo computacional con interpretaciones del paisaje energético basadas en física estadística.
 :::
 
-## Cómo trabajo
+## Práctica de investigación
 
-En estos proyectos utilizo pipelines reproducibles, documento las decisiones de evaluación y comparo los modelos bajo condiciones bien definidas. Esto permite distinguir las mejoras del modelo de los efectos introducidos por los datos o por el esquema de evaluación.
+En estos proyectos utilizo pipelines reproducibles, documento las particiones de datos y las decisiones de evaluación, y comparo los modelos bajo condiciones bien definidas. El objetivo es distinguir las mejoras del modelo de los efectos introducidos por los datos o por el esquema de evaluación.

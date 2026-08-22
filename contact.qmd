@@ -6,11 +6,9 @@ header-includes: |
   <link rel="alternate" hreflang="es" href="https://gkulemeyer.github.io/es/contacto.html">
 ---
 
-Feel free to write if you'd like to discuss deep learning, RNA modeling, teaching, or a possible collaboration.
+For questions about research, teaching, or possible collaborations, feel free to contact me by email.
 
 ## Email
-
-The best way to reach me is by email:
 
 [gkulemeyer@sinc.unl.edu.ar](mailto:gkulemeyer@sinc.unl.edu.ar){.contact-primary}
 

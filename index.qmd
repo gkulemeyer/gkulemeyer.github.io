@@ -15,9 +15,9 @@ header-includes: |
 :::
 
 ::: {.hero-copy}
-My main interest is deep learning. In my current research, I develop predictive and generative models for RNA structure, with a focus on evaluation, structural diversity, and uncertainty.
+I develop deep-learning models for scientific problems involving structure and uncertainty. My current research focuses on predictive and generative models for RNA structure.
 
-I trained as a physicist and now work on problems that bring machine learning and bioinformatics together.
+I study how these models learn structural representations, generalize to less familiar sequences, and represent multiple plausible solutions.
 
 ::: {.hero-actions}
 [Explore my research](research.qmd){.button-primary}
@@ -26,24 +26,28 @@ I trained as a physicist and now work on problems that bring machine learning an
 :::
 :::
 
-## Current Focus
+## Questions Guiding My Work
 
 ::: {.work-grid}
 ::: {.work-item}
-### [Deep Learning for RNA Structure](research.qmd)
+### [Learning Structural Representations](research.qmd)
 
-I develop neural models for RNA secondary structure and study how their performance changes across datasets, sequence similarities, and RNA families.
+How can neural models capture the relationships between RNA sequence and secondary structure?
 :::
 
 ::: {.work-item}
-### [Generative Modeling](research.qmd#generating-rna-structural-ensembles)
+### [Generating Plausible Alternatives](research.qmd#generating-rna-structural-ensembles)
 
-I use conditional discrete diffusion models to sample multiple plausible structures and represent diversity beyond a single prediction.
+When a sequence admits more than one structure, how can generative models represent that diversity?
 :::
 
 ::: {.work-item}
-### [Evaluation and Generalization](research.qmd#evaluating-generalization-in-rna-prediction)
+### [Understanding Generalization](research.qmd#evaluating-generalization-in-rna-prediction)
 
-I compare models under family-aware and sequence-similarity evaluation to understand when they generalize to less familiar examples.
+How does performance change as test sequences become less similar to the data used for training?
 :::
 :::
+
+## Teaching
+
+Alongside my research, I teach Neural Networks I and II in the Artificial Intelligence Engineering program. [See my academic activity](academic-activity.qmd).

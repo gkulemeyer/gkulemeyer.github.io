@@ -7,7 +7,7 @@ header-includes: |
   <link rel="alternate" hreflang="es" href="https://gkulemeyer.github.io/es/actividad-academica.html">
 ---
 
-I trained as a physicist and now work in deep learning and bioinformatics. Alongside my doctoral research, I teach neural networks in the Artificial Intelligence Engineering program.
+My academic activity combines doctoral research in deep learning and bioinformatics with teaching in neural networks.
 
 ## Current Appointments
 
@@ -38,12 +38,10 @@ Thesis topic: generative models for joint sequence-structure representations and
 **Licentiate Degree in Physics**, Universidad Nacional de Rosario, 2016–2024<br>
 Thesis on machine-learning simulations of dissociative adsorption of methane on Pt(110)-(1×2).
 
-This training gave me a foundation in numerical modeling, statistical physics, and scientific computing.
-
 ## Previous Research
 
 **Instituto de Física Rosario (IFIR), UNR-CONICET · 2022–2024**<br>
-As an EVC-CIN undergraduate research fellow, I worked on neural-network interatomic potentials and computational simulations of methane adsorption on platinum surfaces. It was my first research experience applying machine learning to a molecular system.
+As an EVC-CIN undergraduate research fellow, I worked on neural-network interatomic potentials and computational simulations of methane adsorption on platinum surfaces.
 
 ## Selected Presentations
 

@@ -15,9 +15,9 @@ header-includes: |
 :::
 
 ::: {.hero-copy}
-Mi principal interés es el deep learning. En mi investigación actual desarrollo modelos predictivos y generativos para estudiar la estructura del ARN, con especial atención a la evaluación, la diversidad estructural y la incertidumbre.
+Desarrollo modelos de deep learning para problemas científicos con estructura e incertidumbre. Mi investigación actual se centra en modelos predictivos y generativos para estructura de ARN.
 
-Soy físico de formación y actualmente trabajo en problemas que combinan aprendizaje automático y bioinformática.
+Estudio cómo estos modelos aprenden representaciones estructurales, cómo generalizan a secuencias menos conocidas y cómo pueden representar múltiples soluciones plausibles.
 
 ::: {.hero-actions}
 [Conocer mi investigación](investigacion.qmd){.button-primary}
@@ -26,24 +26,28 @@ Soy físico de formación y actualmente trabajo en problemas que combinan aprend
 :::
 :::
 
-## Foco actual
+## Preguntas que guían mi trabajo
 
 ::: {.work-grid}
 ::: {.work-item}
-### [Deep learning para estructura de ARN](investigacion.qmd)
+### [Aprender representaciones estructurales](investigacion.qmd)
 
-Desarrollo modelos neuronales para estructura secundaria de ARN y estudio cómo cambia su rendimiento entre conjuntos de datos, similitudes de secuencia y familias de ARN.
+¿Cómo pueden los modelos neuronales capturar las relaciones entre la secuencia y la estructura secundaria del ARN?
 :::
 
 ::: {.work-item}
-### [Modelado generativo](investigacion.qmd#generación-de-ensembles-estructurales-de-arn)
+### [Generar alternativas plausibles](investigacion.qmd#generación-de-ensembles-estructurales-de-arn)
 
-Utilizo modelos de difusión discreta condicional para muestrear múltiples estructuras plausibles y representar diversidad más allá de una única predicción.
+Cuando una secuencia admite más de una estructura, ¿cómo pueden los modelos generativos representar esa diversidad?
 :::
 
 ::: {.work-item}
-### [Evaluación y generalización](investigacion.qmd#evaluación-de-la-generalización-en-predicción-de-arn)
+### [Comprender la generalización](investigacion.qmd#evaluación-de-la-generalización-en-predicción-de-arn)
 
-Comparo modelos mediante evaluaciones por familia y similitud de secuencia para comprender cuándo generalizan a ejemplos menos conocidos.
+¿Cómo cambia el rendimiento cuando las secuencias de prueba se parecen menos a los datos utilizados durante el entrenamiento?
 :::
 :::
+
+## Docencia
+
+Además de investigar, enseño Redes Neuronales I y II en la carrera de Ingeniería en Inteligencia Artificial. [Ver mi actividad académica](actividad-academica.qmd).

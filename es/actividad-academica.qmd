@@ -7,7 +7,7 @@ header-includes: |
   <link rel="alternate" hreflang="es" href="https://gkulemeyer.github.io/es/actividad-academica.html">
 ---
 
-Soy físico de formación y actualmente trabajo en deep learning y bioinformática. Además de mi investigación doctoral, enseño redes neuronales en la carrera de Ingeniería en Inteligencia Artificial.
+Mi actividad académica combina investigación doctoral en deep learning y bioinformática con docencia en redes neuronales.
 
 ## Actividades actuales
 
@@ -38,12 +38,10 @@ Tema de tesis: modelos generativos para representaciones conjuntas de secuencia 
 **Licenciatura en Física**, Universidad Nacional de Rosario, 2016–2024<br>
 Tesina sobre simulaciones de la adsorción disociativa de metano en Pt(110)-(1×2) mediante aprendizaje automático.
 
-Esta formación me dio una base en modelado numérico, física estadística y computación científica.
-
 ## Investigación previa
 
 **Instituto de Física Rosario (IFIR), UNR-CONICET · 2022–2024**<br>
-Como becario EVC-CIN, trabajé en potenciales interatómicos basados en redes neuronales y simulaciones computacionales de adsorción de metano sobre superficies de platino. Fue mi primera experiencia de investigación aplicando aprendizaje automático a un sistema molecular.
+Como becario EVC-CIN, trabajé en potenciales interatómicos basados en redes neuronales y simulaciones computacionales de adsorción de metano sobre superficies de platino.
 
 ## Presentaciones seleccionadas
 

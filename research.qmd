@@ -7,22 +7,14 @@ header-includes: |
   <link rel="alternate" hreflang="es" href="https://gkulemeyer.github.io/es/investigacion.html">
 ---
 
-Deep learning is the methodological focus of my doctoral research. I use predictive models to estimate RNA structure from sequence and generative models to represent multiple plausible structures, diversity, and uncertainty.
+My research focuses on deep learning for structured scientific data. I currently work with RNA secondary structure, combining predictive models, generative models, and evaluation strategies designed to measure generalization.
 
-My work currently centers on RNA secondary structure. Alongside model development, I study how data and evaluation choices affect the conclusions we draw about model performance and generalization.
+Together, these directions ask how a model can learn useful relationships between sequence and structure, represent plausible alternatives, and remain reliable on less familiar data.
 
 ## Generating RNA Structural Ensembles
 
 ::: {.research-line}
-**The question.**
-
-How can a model produce multiple plausible RNA secondary structures conditioned on a nucleotide sequence rather than returning only one estimate?
-
-**Why it matters.**
-
-RNA can adopt alternative secondary structures. An ensemble captures this variability better than a single prediction and makes it possible to analyze diversity, consensus, and uncertainty.
-
-**What I do.**
+RNA can adopt alternative secondary structures, so a single prediction may leave out relevant variability. Structural ensembles make it possible to study diversity, consensus, and uncertainty directly.
 
 I develop conditional discrete diffusion models with two-dimensional neural architectures for sampling RNA secondary structures. My work includes reproducible training and sampling pipelines and ensemble-level evaluation using consensus, energy, and structural-diversity criteria.
 :::
@@ -30,15 +22,7 @@ I develop conditional discrete diffusion models with two-dimensional neural arch
 ## Evaluating Generalization in RNA Prediction
 
 ::: {.research-line}
-**The question.**
-
-How should RNA structure predictors be evaluated when training and test sequences share different degrees of similarity or belong to different RNA families?
-
-**Why it matters.**
-
-Evaluation results depend on how data are divided. If closely related sequences appear across training and test sets, strong performance may not reflect the ability to generalize to less familiar RNA families.
-
-**What I do.**
+Strong performance does not always imply broad generalization. When closely related sequences appear across training and test sets, evaluation can overstate how well a model handles less familiar RNA families.
 
 I study family-aware and sequence-similarity evaluation regimes across RNA datasets. My contribution focuses on reproducible comparison of classical and deep-learning predictors and on identifying when apparent predictive performance depends on the composition of the evaluation split.
 :::
@@ -49,6 +33,6 @@ I study family-aware and sequence-similarity evaluation regimes across RNA datas
 Through the **IDPfun2 Marie Skłodowska-Curie Staff Exchanges** collaboration, I also apply generative modeling to ordered and intrinsically disordered protein ensembles. This work connects computational sampling with energy-landscape interpretations grounded in statistical physics.
 :::
 
-## How I Work
+## Research Practice
 
-Across these projects, I use reproducible pipelines, document evaluation decisions, and compare models under clearly defined conditions. This helps separate improvements in the model from effects introduced by the data or the evaluation setup.
+Across these projects, I use reproducible pipelines, document data partitions and evaluation decisions, and compare models under clearly defined conditions. The goal is to separate improvements in the model from effects introduced by the data or evaluation setup.
