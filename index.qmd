@@ -15,46 +15,35 @@ header-includes: |
 :::
 
 ::: {.hero-copy}
-I am a physicist and PhD student in Computational Intelligence at the [Instituto de Investigación en Señales, Sistemas e Inteligencia Computacional (sinc(i))](https://sinc.unl.edu.ar/staff/guillermo-kulemeyer/), FICH-UNL-CONICET.
+I study how machine learning can predict RNA secondary structure and generate diverse structural ensembles. My work combines bioinformatics, deep learning, and statistical physics.
 
-My research combines machine learning, bioinformatics, and statistical physics to study RNA secondary structures and biomolecular ensembles. I develop predictive models that infer structural properties from sequences and generative models that produce multiple plausible structures to represent diversity and uncertainty.
+Predictive models estimate structural properties from a sequence; generative models sample multiple plausible structures to represent diversity and uncertainty.
 
 ::: {.hero-actions}
 [Explore my research](research.qmd){.button-primary}
 [Download CV](cv.qmd){.button-secondary}
-[Contact](contact.qmd){.text-link}
 :::
 :::
 :::
 
-::: {.affiliation-strip}
-<a href="https://sinc.unl.edu.ar/"><img src="/assets/img/logo-sinc.svg" alt="sinc(i), UNL-CONICET" class="sinc-logo"></a>
+## Selected Work
 
-Doctoral fellow at **CONICET** · Based at **FICH, Universidad Nacional del Litoral**
-:::
-
-## Current Focus
-
-::: {.focus-grid}
-::: {.focus-item}
+::: {.work-grid}
+::: {.work-item}
 ### Generative RNA Modeling
 
 Conditional discrete diffusion models for sampling secondary structures and studying RNA ensembles beyond a single prediction.
 :::
 
-::: {.focus-item}
+::: {.work-item}
 ### Reliable Model Evaluation
 
 Family-aware and sequence-similarity evaluation to understand how RNA prediction models generalize beyond familiar examples.
 :::
 
-::: {.focus-item}
+::: {.work-item}
 ### Teaching Neural Networks
 
-Teaching Neural Networks I and II at FICH-UNL, connecting foundational concepts with modern deep-learning practice.
+Teaching Neural Networks I and II, connecting foundational concepts with modern deep-learning practice.
 :::
 :::
-
-## Predictive and Generative Modeling
-
-**Predictive modeling** estimates a structure or structural property from an RNA sequence. **Generative modeling** samples several plausible structures conditioned on that sequence, making it possible to study ensembles and uncertainty. My doctoral work examines both perspectives while keeping their aims and evaluation criteria distinct.

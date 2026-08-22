@@ -6,23 +6,17 @@ header-includes: |
   <link rel="alternate" hreflang="es" href="https://gkulemeyer.github.io/es/contacto.html">
 ---
 
-Para conversaciones sobre investigación, oportunidades académicas o consultas relacionadas con docencia, podés contactarme a través de mi correo institucional.
-
-::: {.contact-panel}
 ## Correo
 
 [gkulemeyer@sinc.unl.edu.ar](mailto:gkulemeyer@sinc.unl.edu.ar){.contact-primary}
 
-## Perfiles Académicos
+Para conversaciones sobre investigación, oportunidades académicas o consultas relacionadas con docencia.
 
+## Perfiles
+
+::: {.profile-links}
 - [Google Scholar](https://scholar.google.com/citations?user=mBucAygAAAAJ&hl=es)
 - [Perfil institucional en sinc(i)](https://sinc.unl.edu.ar/staff/guillermo-kulemeyer/)
 - [GitHub](https://github.com/gkulemeyer)
 - [LinkedIn](https://www.linkedin.com/in/guillermo-kulemeyer/)
-
-## Afiliación
-
-Instituto de Investigación en Señales, Sistemas e Inteligencia Computacional (sinc(i))<br>
-FICH, Universidad Nacional del Litoral · CONICET<br>
-Santa Fe, Argentina
 :::

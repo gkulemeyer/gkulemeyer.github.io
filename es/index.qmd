@@ -15,46 +15,35 @@ header-includes: |
 :::
 
 ::: {.hero-copy}
-Soy físico y doctorando en Inteligencia Computacional en el [Instituto de Investigación en Señales, Sistemas e Inteligencia Computacional (sinc(i))](https://sinc.unl.edu.ar/staff/guillermo-kulemeyer/), FICH-UNL-CONICET.
+Estudio cómo el aprendizaje automático puede predecir la estructura secundaria del ARN y generar ensembles estructurales diversos. Mi trabajo combina bioinformática, aprendizaje profundo y física estadística.
 
-Mi investigación combina aprendizaje automático, bioinformática y física estadística para estudiar estructuras secundarias de ARN y ensembles biomoleculares. Desarrollo modelos predictivos que infieren propiedades estructurales a partir de secuencias y modelos generativos que producen múltiples estructuras plausibles para representar diversidad e incertidumbre.
+Los modelos predictivos estiman propiedades estructurales a partir de una secuencia; los modelos generativos producen múltiples estructuras plausibles para representar diversidad e incertidumbre.
 
 ::: {.hero-actions}
 [Conocer mi investigación](investigacion.qmd){.button-primary}
 [Descargar CV](cv.qmd){.button-secondary}
-[Contacto](contacto.qmd){.text-link}
 :::
 :::
 :::
 
-::: {.affiliation-strip}
-<a href="https://sinc.unl.edu.ar/"><img src="/assets/img/logo-sinc.svg" alt="sinc(i), UNL-CONICET" class="sinc-logo"></a>
+## Trabajo Seleccionado
 
-Becario doctoral del **CONICET** · Lugar de trabajo: **FICH, Universidad Nacional del Litoral**
-:::
-
-## Líneas Actuales
-
-::: {.focus-grid}
-::: {.focus-item}
+::: {.work-grid}
+::: {.work-item}
 ### Modelado Generativo de ARN
 
 Modelos de difusión discreta condicional para muestrear estructuras secundarias y estudiar ensembles de ARN más allá de una única predicción.
 :::
 
-::: {.focus-item}
+::: {.work-item}
 ### Evaluación Confiable de Modelos
 
 Evaluación por familias y similitud de secuencia para comprender cómo generalizan los modelos de predicción de ARN más allá de ejemplos conocidos.
 :::
 
-::: {.focus-item}
+::: {.work-item}
 ### Docencia en Redes Neuronales
 
-Docencia en Redes Neuronales I y II en FICH-UNL, conectando conceptos fundamentales con la práctica moderna del aprendizaje profundo.
+Docencia en Redes Neuronales I y II, conectando conceptos fundamentales con la práctica moderna del aprendizaje profundo.
 :::
 :::
-
-## Modelado Predictivo y Generativo
-
-El **modelado predictivo** estima una estructura o propiedad estructural a partir de una secuencia de ARN. El **modelado generativo** produce varias estructuras plausibles condicionadas por esa secuencia, lo que permite estudiar ensembles e incertidumbre. Mi trabajo doctoral aborda ambas perspectivas y mantiene diferenciados sus objetivos y criterios de evaluación.

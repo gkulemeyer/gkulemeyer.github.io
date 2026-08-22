@@ -13,7 +13,7 @@ header-includes: |
 ::: {.timeline-item}
 ### Becario Doctoral del CONICET
 
-**sinc(i), UNL-CONICET · 2025–actualidad**
+**2025–actualidad**
 
 Investigación doctoral sobre modelado predictivo y generativo de estructura secundaria de ARN, bajo la dirección del Prof. Diego H. Milone y el Dr. Leandro Bugnon.
 :::
@@ -26,13 +26,6 @@ Investigación doctoral sobre modelado predictivo y generativo de estructura sec
 Docencia en Redes Neuronales I y Redes Neuronales II de la carrera [Ingeniería en Inteligencia Artificial](https://www.unl.edu.ar/carreras/ingenieria-en-inteligencia-artificial/).
 :::
 
-::: {.timeline-item}
-### Colaboración de Investigación IDPfun2
-
-**Marie Skłodowska-Curie Staff Exchanges · 2025–actualidad**
-
-Investigación sobre modelado generativo de ensembles de proteínas ordenadas e intrínsecamente desordenadas.
-:::
 :::
 
 ## Formación

@@ -13,7 +13,7 @@ header-includes: |
 ::: {.timeline-item}
 ### CONICET Doctoral Fellow
 
-**sinc(i), UNL-CONICET · 2025–present**
+**2025–present**
 
 Doctoral research on predictive and generative modeling of RNA secondary structure, supervised by Prof. Diego H. Milone and Dr. Leandro Bugnon.
 :::
@@ -26,13 +26,6 @@ Doctoral research on predictive and generative modeling of RNA secondary structu
 Teaching assistant (*Ayudante de Primera*) for Neural Networks I and Neural Networks II in the [Ingeniería en Inteligencia Artificial](https://www.unl.edu.ar/carreras/ingenieria-en-inteligencia-artificial/) program.
 :::
 
-::: {.timeline-item}
-### IDPfun2 Research Collaboration
-
-**Marie Skłodowska-Curie Staff Exchanges · 2025–present**
-
-Research on generative modeling of ordered and intrinsically disordered protein ensembles.
-:::
 :::
 
 ## Education
