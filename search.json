@@ -1,0 +1,310 @@
+[
+  {
+    "objectID": "es/contacto.html",
+    "href": "es/contacto.html",
+    "title": "Contacto",
+    "section": "",
+    "text": "Guillermo Kulemeyer\n    \n      Publicaciones\n      Investigación\n      Actividad\n      CV\n      Contacto\n    \n    \n      EN\n      /\n      ES\nPara consultas sobre investigación, docencia o posibles colaboraciones, podés escribirme por correo."
+  },
+  {
+    "objectID": "es/contacto.html#correo",
+    "href": "es/contacto.html#correo",
+    "title": "Contacto",
+    "section": "Correo",
+    "text": "Correo\ngkulemeyer@sinc.unl.edu.ar"
+  },
+  {
+    "objectID": "es/contacto.html#perfiles",
+    "href": "es/contacto.html#perfiles",
+    "title": "Contacto",
+    "section": "Perfiles",
+    "text": "Perfiles\n\n\nGoogle Scholar\nPerfil institucional en sinc(i)\nGitHub\nLinkedIn"
+  },
+  {
+    "objectID": "es/actividad-academica.html",
+    "href": "es/actividad-academica.html",
+    "title": "Actividad Académica",
+    "section": "",
+    "text": "Guillermo Kulemeyer\n    \n      Publicaciones\n      Investigación\n      Actividad\n      CV\n      Contacto\n    \n    \n      EN\n      /\n      ES\nMi actividad académica combina investigación doctoral en deep learning y bioinformática con docencia en redes neuronales."
+  },
+  {
+    "objectID": "es/actividad-academica.html#actividades-actuales",
+    "href": "es/actividad-academica.html#actividades-actuales",
+    "title": "Actividad Académica",
+    "section": "Actividades actuales",
+    "text": "Actividades actuales\n\n\nBecario doctoral del CONICET\n2025–actualidad\nMi trabajo doctoral explora modelos predictivos y generativos de deep learning para estructura secundaria de ARN, bajo la dirección del Prof. Diego H. Milone y el Dr. Leandro Bugnon. El trabajo incluye desarrollo de modelos, análisis de datos, experimentos reproducibles y evaluación en distintos conjuntos de datos de ARN.\n\n\nAyudante de Primera\nFacultad de Ingeniería y Ciencias Hídricas, Universidad Nacional del Litoral · 2026–actualidad\nSoy docente de Redes Neuronales I y Redes Neuronales II como Ayudante de Primera en la carrera Ingeniería en Inteligencia Artificial. Las materias conectan conceptos matemáticos, decisiones de implementación y análisis práctico de modelos neuronales."
+  },
+  {
+    "objectID": "es/actividad-academica.html#formación",
+    "href": "es/actividad-academica.html#formación",
+    "title": "Actividad Académica",
+    "section": "Formación",
+    "text": "Formación\nDoctorado en Ingeniería – Inteligencia Computacional, Universidad Nacional del Litoral, 2025–actualidad Tema de tesis: modelos generativos para representaciones conjuntas de secuencia y estructura y ensembles de ARN.\nLicenciatura en Física, Universidad Nacional de Rosario, 2016–2024 Tesina sobre simulaciones de la adsorción disociativa de metano en Pt(110)-(1×2) mediante aprendizaje automático."
+  },
+  {
+    "objectID": "es/actividad-academica.html#investigación-previa",
+    "href": "es/actividad-academica.html#investigación-previa",
+    "title": "Actividad Académica",
+    "section": "Investigación previa",
+    "text": "Investigación previa\nInstituto de Física Rosario (IFIR), UNR-CONICET · 2022–2024 Como becario EVC-CIN, trabajé en potenciales interatómicos basados en redes neuronales y simulaciones computacionales de adsorción de metano sobre superficies de platino."
+  },
+  {
+    "objectID": "es/actividad-academica.html#presentaciones",
+    "href": "es/actividad-academica.html#presentaciones",
+    "title": "Actividad Académica",
+    "section": "Presentaciones",
+    "text": "Presentaciones\nLos pósters en congresos y otras presentaciones están listados en la página de Publicaciones."
+  },
+  {
+    "objectID": "es/publicaciones.html",
+    "href": "es/publicaciones.html",
+    "title": "Publicaciones",
+    "section": "",
+    "text": "Guillermo Kulemeyer\n    \n      Publicaciones\n      Investigación\n      Actividad\n      CV\n      Contacto\n    \n    \n      EN\n      /\n      ES\nMi trabajo publicado y en curso trata sobre cómo se evalúan los modelos de deep learning para estructura secundaria de ARN y cómo lograr que generalicen más allá de las familias con las que fueron entrenados. También hay una lista actualizada en Google Scholar."
+  },
+  {
+    "objectID": "es/publicaciones.html#articulos-y-preprints",
+    "href": "es/publicaciones.html#articulos-y-preprints",
+    "title": "Publicaciones",
+    "section": "Artículos y preprints",
+    "text": "Artículos y preprints\n\nBugnon, L. A., Kulemeyer, G., Gerard, M., Di Persia, L., Stegmayer, G. y Milone, D. H. (2026). Homology-aware cross-validation strategies for generalization assessment in RNA structure prediction.\n\nEn revisión · preprint en bioRxiv\n\nEl trabajo analiza cómo la homología entre secuencias de entrenamiento y de prueba infla la exactitud reportada en predicción de estructura de ARN, y compara predictores clásicos y de deep learning bajo esquemas de validación por familia y por similitud de secuencia. Mi contribución se centra en el benchmarking comparativo y en su implementación reproducible.\n\nPreprint (DOI) · Código y datos"
+  },
+  {
+    "objectID": "es/publicaciones.html#en-preparacion",
+    "href": "es/publicaciones.html#en-preparacion",
+    "title": "Publicaciones",
+    "section": "En preparación",
+    "text": "En preparación\n\nThe Less the Better: Improving RNA Secondary Structure Generalization with Structural-Aware Subsampling.\n\nManuscrito en preparación\n\nEl submuestreo del conjunto de entrenamiento guiado por estructura conserva alrededor del 18 % de ArchiveII preservando la diversidad estructural, con un rendimiento comparable al del entrenamiento con el conjunto completo. El manuscrito presenta la estrategia de submuestreo y su efecto sobre la generalización entre familias."
+  },
+  {
+    "objectID": "es/publicaciones.html#presentaciones-en-congresos",
+    "href": "es/publicaciones.html#presentaciones-en-congresos",
+    "title": "Publicaciones",
+    "section": "Presentaciones en congresos",
+    "text": "Presentaciones en congresos\n\nEnhancing Deep Learning Prediction of Base-Pairing Probability in RNA Sequences Using Structural Diversity.\n\nPóster · I Jornada Argentina de Bioinformática y Biología Computacional · 2025\n\n\n\nDissociative Adsorption of Methane on Pt(110)-(1×2) Using Machine Learning.\n\nPóster · X Encuentro de Física y Química de Superficies, CNEA · 2024"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Guillermo Kulemeyer\n    \n      Publications\n      Research\n      Activity\n      CV\n      Contact\n    \n    \n      EN\n      /\n      ES\n    \n  \n\n\n\n\n\nThe CV summarizes my education, research experience, teaching, fellowships, and presentations. The current version was updated in December 2025.\nDownload CV (PDF)\n\nDecember 2025 · PDF · 2 pages"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Guillermo Kulemeyer\n    \n      Publications\n      Research\n      Activity\n      CV\n      Contact\n    \n    \n      EN\n      /\n      ES\nMy research focuses on deep learning for structured scientific data. I currently work with RNA secondary structure, combining predictive models, generative models, and evaluation strategies designed to measure generalization.\nTogether, these directions ask how a model can learn useful relationships between sequence and structure, represent plausible alternatives, and remain reliable on less familiar data."
+  },
+  {
+    "objectID": "research.html#generating-rna-structural-ensembles",
+    "href": "research.html#generating-rna-structural-ensembles",
+    "title": "Research",
+    "section": "Generating RNA Structural Ensembles",
+    "text": "Generating RNA Structural Ensembles\n\nRNA can adopt alternative secondary structures, so a single prediction may leave out relevant variability. Structural ensembles make it possible to study diversity, consensus, and uncertainty directly.\nI develop conditional discrete diffusion models with two-dimensional neural architectures for sampling RNA secondary structures. My work includes reproducible training and sampling pipelines and ensemble-level evaluation using consensus, energy, and structural-diversity criteria."
+  },
+  {
+    "objectID": "research.html#evaluating-generalization-in-rna-prediction",
+    "href": "research.html#evaluating-generalization-in-rna-prediction",
+    "title": "Research",
+    "section": "Evaluating Generalization in RNA Prediction",
+    "text": "Evaluating Generalization in RNA Prediction\n\nStrong performance does not always imply broad generalization. When closely related sequences appear across training and test sets, evaluation can overstate how well a model handles less familiar RNA families.\nI study family-aware and sequence-similarity evaluation regimes across RNA datasets. My contribution focuses on reproducible comparison of classical and deep-learning predictors and on identifying when apparent predictive performance depends on the composition of the evaluation split."
+  },
+  {
+    "objectID": "research.html#biomolecular-ensembles-beyond-rna",
+    "href": "research.html#biomolecular-ensembles-beyond-rna",
+    "title": "Research",
+    "section": "Biomolecular Ensembles Beyond RNA",
+    "text": "Biomolecular Ensembles Beyond RNA\n\nThrough the IDPfun2 Marie Skłodowska-Curie Staff Exchanges collaboration, I also apply generative modeling to ordered and intrinsically disordered protein ensembles. This work connects computational sampling with energy-landscape interpretations grounded in statistical physics."
+  },
+  {
+    "objectID": "research.html#research-practice",
+    "href": "research.html#research-practice",
+    "title": "Research",
+    "section": "Research Practice",
+    "text": "Research Practice\nAcross these projects, I use reproducible pipelines, document data partitions and evaluation decisions, and compare models under clearly defined conditions. The goal is to separate improvements in the model from effects introduced by the data or evaluation setup."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Guillermo Kulemeyer",
+    "section": "",
+    "text": "Guillermo Kulemeyer\n    \n      Publications\n      Research\n      Activity\n      CV\n      Contact\n    \n    \n      EN\n      /\n      ES"
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Guillermo Kulemeyer",
+    "section": "Publications",
+    "text": "Publications\n\n\n\n2026\n\n\nHomology-aware cross-validation strategies for generalization assessment in RNA structure prediction\nBugnon, Kulemeyer, Gerard, Di Persia, Stegmayer & Milone · under review, bioRxiv preprint\n\n\n\n\n2026\n\n\nThe Less the Better: Improving RNA Secondary Structure Generalization with Structural-Aware Subsampling\nManuscript in preparation\n\n\n\n\n2025\n\n\nEnhancing Deep Learning Prediction of Base-Pairing Probability in RNA Sequences Using Structural Diversity\nPoster · 1st Argentine Workshop on Bioinformatics and Computational Biology\n\n\n\n\n2024\n\n\nDissociative Adsorption of Methane on Pt(110)-(1×2) Using Machine Learning\nPoster · 10th Surfaces Physics & Chemistry Meeting, CNEA\n\n\n\nSee all publications"
+  },
+  {
+    "objectID": "index.html#questions-guiding-my-work",
+    "href": "index.html#questions-guiding-my-work",
+    "title": "Guillermo Kulemeyer",
+    "section": "Questions Guiding My Work",
+    "text": "Questions Guiding My Work\n\n\nLearning Structural Representations\nHow can neural models capture the relationships between RNA sequence and secondary structure?\n\n\nGenerating Plausible Alternatives\nWhen a sequence admits more than one structure, how can generative models represent that diversity?\n\n\nUnderstanding Generalization\nHow does performance change as test sequences become less similar to the data used for training?"
+  },
+  {
+    "objectID": "index.html#teaching",
+    "href": "index.html#teaching",
+    "title": "Guillermo Kulemeyer",
+    "section": "Teaching",
+    "text": "Teaching\nAlongside my research, I teach Neural Networks I and II in the Artificial Intelligence Engineering program. See my academic activity."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Guillermo Kulemeyer\n    \n      Publications\n      Research\n      Activity\n      CV\n      Contact\n    \n    \n      EN\n      /\n      ES\nMy published and in-progress work concerns how deep-learning models for RNA secondary structure are evaluated, and how they can be made to generalize beyond the families they were trained on. An up-to-date list is also available on Google Scholar."
+  },
+  {
+    "objectID": "publications.html#articles-and-preprints",
+    "href": "publications.html#articles-and-preprints",
+    "title": "Publications",
+    "section": "Articles and Preprints",
+    "text": "Articles and Preprints\n\nBugnon, L. A., Kulemeyer, G., Gerard, M., Di Persia, L., Stegmayer, G., & Milone, D. H. (2026). Homology-aware cross-validation strategies for generalization assessment in RNA structure prediction.\n\nUnder review · bioRxiv preprint\n\nThe paper examines how homology between training and test sequences inflates reported accuracy in RNA structure prediction, and compares classical and deep-learning predictors under family-aware and sequence-similarity validation schemes. My contribution centers on the comparative benchmarking and its reproducible implementation.\n\nPreprint (DOI) · Code and data"
+  },
+  {
+    "objectID": "publications.html#in-preparation",
+    "href": "publications.html#in-preparation",
+    "title": "Publications",
+    "section": "In Preparation",
+    "text": "In Preparation\n\nThe Less the Better: Improving RNA Secondary Structure Generalization with Structural-Aware Subsampling.\n\nManuscript in preparation\n\nStructure-aware subsampling of training data retains roughly 18% of ArchiveII while preserving structural diversity, reaching performance comparable to training on the full dataset. The manuscript reports the subsampling strategy and its effect on cross-family generalization."
+  },
+  {
+    "objectID": "publications.html#conference-presentations",
+    "href": "publications.html#conference-presentations",
+    "title": "Publications",
+    "section": "Conference Presentations",
+    "text": "Conference Presentations\n\nEnhancing Deep Learning Prediction of Base-Pairing Probability in RNA Sequences Using Structural Diversity.\n\nPoster · 1st Argentine Workshop on Bioinformatics and Computational Biology (JAB2C) · 2025\n\n\n\nDissociative Adsorption of Methane on Pt(110)-(1×2) Using Machine Learning.\n\nPoster · 10th Surfaces Physics & Chemistry Meeting, CNEA · 2024"
+  },
+  {
+    "objectID": "academic-activity.html",
+    "href": "academic-activity.html",
+    "title": "Academic Activity",
+    "section": "",
+    "text": "Guillermo Kulemeyer\n    \n      Publications\n      Research\n      Activity\n      CV\n      Contact\n    \n    \n      EN\n      /\n      ES\nMy academic activity combines doctoral research in deep learning and bioinformatics with teaching in neural networks."
+  },
+  {
+    "objectID": "academic-activity.html#current-appointments",
+    "href": "academic-activity.html#current-appointments",
+    "title": "Academic Activity",
+    "section": "Current Appointments",
+    "text": "Current Appointments\n\n\nCONICET Doctoral Fellow\n2025–present\nMy doctoral work explores predictive and generative deep-learning models for RNA secondary structure, supervised by Prof. Diego H. Milone and Dr. Leandro Bugnon. The work includes model development, data analysis, reproducible experiments, and evaluation across RNA datasets.\n\n\nTeaching Assistant\nFacultad de Ingeniería y Ciencias Hídricas, Universidad Nacional del Litoral · 2026–present\nI teach Neural Networks I and Neural Networks II as an Ayudante de Primera in the Ingeniería en Inteligencia Artificial program. The courses connect mathematical concepts with implementation decisions and practical analysis of neural models."
+  },
+  {
+    "objectID": "academic-activity.html#education",
+    "href": "academic-activity.html#education",
+    "title": "Academic Activity",
+    "section": "Education",
+    "text": "Education\nPhD in Engineering – Computational Intelligence, Universidad Nacional del Litoral, 2025–present Thesis topic: generative models for joint sequence-structure representations and RNA ensembles.\nLicentiate Degree in Physics, Universidad Nacional de Rosario, 2016–2024 Thesis on machine-learning simulations of dissociative adsorption of methane on Pt(110)-(1×2)."
+  },
+  {
+    "objectID": "academic-activity.html#previous-research",
+    "href": "academic-activity.html#previous-research",
+    "title": "Academic Activity",
+    "section": "Previous Research",
+    "text": "Previous Research\nInstituto de Física Rosario (IFIR), UNR-CONICET · 2022–2024 As an EVC-CIN undergraduate research fellow, I worked on neural-network interatomic potentials and computational simulations of methane adsorption on platinum surfaces."
+  },
+  {
+    "objectID": "academic-activity.html#presentations",
+    "href": "academic-activity.html#presentations",
+    "title": "Academic Activity",
+    "section": "Presentations",
+    "text": "Presentations\nConference posters and other presentations are listed on the Publications page."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Guillermo Kulemeyer\n    \n      Publications\n      Research\n      Activity\n      CV\n      Contact\n    \n    \n      EN\n      /\n      ES\nFor questions about research, teaching, or possible collaborations, feel free to contact me by email."
+  },
+  {
+    "objectID": "contact.html#email",
+    "href": "contact.html#email",
+    "title": "Contact",
+    "section": "Email",
+    "text": "Email\ngkulemeyer@sinc.unl.edu.ar"
+  },
+  {
+    "objectID": "contact.html#profiles",
+    "href": "contact.html#profiles",
+    "title": "Contact",
+    "section": "Profiles",
+    "text": "Profiles\n\n\nGoogle Scholar\nInstitutional profile at sinc(i)\nGitHub\nLinkedIn"
+  },
+  {
+    "objectID": "es/index.html",
+    "href": "es/index.html",
+    "title": "Guillermo Kulemeyer",
+    "section": "",
+    "text": "Guillermo Kulemeyer\n    \n      Publicaciones\n      Investigación\n      Actividad\n      CV\n      Contacto\n    \n    \n      EN\n      /\n      ES"
+  },
+  {
+    "objectID": "es/index.html#publicaciones",
+    "href": "es/index.html#publicaciones",
+    "title": "Guillermo Kulemeyer",
+    "section": "Publicaciones",
+    "text": "Publicaciones\n\n\n\n2026\n\n\nHomology-aware cross-validation strategies for generalization assessment in RNA structure prediction\nBugnon, Kulemeyer, Gerard, Di Persia, Stegmayer y Milone · en revisión, preprint en bioRxiv\n\n\n\n\n2026\n\n\nThe Less the Better: Improving RNA Secondary Structure Generalization with Structural-Aware Subsampling\nManuscrito en preparación\n\n\n\n\n2025\n\n\nEnhancing Deep Learning Prediction of Base-Pairing Probability in RNA Sequences Using Structural Diversity\nPóster · I Jornada Argentina de Bioinformática y Biología Computacional\n\n\n\n\n2024\n\n\nDissociative Adsorption of Methane on Pt(110)-(1×2) Using Machine Learning\nPóster · X Encuentro de Física y Química de Superficies, CNEA\n\n\n\nVer todas las publicaciones"
+  },
+  {
+    "objectID": "es/index.html#preguntas-que-guían-mi-trabajo",
+    "href": "es/index.html#preguntas-que-guían-mi-trabajo",
+    "title": "Guillermo Kulemeyer",
+    "section": "Preguntas que guían mi trabajo",
+    "text": "Preguntas que guían mi trabajo\n\n\nAprender representaciones estructurales\n¿Cómo pueden los modelos neuronales capturar las relaciones entre la secuencia y la estructura secundaria del ARN?\n\n\nGenerar alternativas plausibles\nCuando una secuencia admite más de una estructura, ¿cómo pueden los modelos generativos representar esa diversidad?\n\n\nComprender la generalización\n¿Cómo cambia el rendimiento cuando las secuencias de prueba se parecen menos a los datos utilizados durante el entrenamiento?"
+  },
+  {
+    "objectID": "es/index.html#docencia",
+    "href": "es/index.html#docencia",
+    "title": "Guillermo Kulemeyer",
+    "section": "Docencia",
+    "text": "Docencia\nAdemás de investigar, enseño Redes Neuronales I y II en la carrera de Ingeniería en Inteligencia Artificial. Ver mi actividad académica."
+  },
+  {
+    "objectID": "es/investigacion.html",
+    "href": "es/investigacion.html",
+    "title": "Investigación",
+    "section": "",
+    "text": "Guillermo Kulemeyer\n    \n      Publicaciones\n      Investigación\n      Actividad\n      CV\n      Contacto\n    \n    \n      EN\n      /\n      ES\nMi investigación se centra en deep learning para datos científicos estructurados. Actualmente trabajo con estructura secundaria de ARN, combinando modelos predictivos, modelos generativos y estrategias de evaluación orientadas a medir generalización.\nEn conjunto, estas líneas estudian cómo un modelo puede aprender relaciones útiles entre secuencia y estructura, representar alternativas plausibles y mantener un rendimiento confiable sobre datos menos conocidos."
+  },
+  {
+    "objectID": "es/investigacion.html#generación-de-ensembles-estructurales-de-arn",
+    "href": "es/investigacion.html#generación-de-ensembles-estructurales-de-arn",
+    "title": "Investigación",
+    "section": "Generación de ensembles estructurales de ARN",
+    "text": "Generación de ensembles estructurales de ARN\n\nEl ARN puede adoptar estructuras secundarias alternativas, por lo que una única predicción puede dejar afuera variaciones relevantes. Los ensembles estructurales permiten estudiar directamente la diversidad, el consenso y la incertidumbre.\nDesarrollo modelos de difusión discreta condicional con arquitecturas neuronales bidimensionales para muestrear estructuras secundarias de ARN. Mi trabajo incluye pipelines reproducibles de entrenamiento y muestreo, junto con evaluación a nivel de ensemble mediante criterios de consenso, energía y diversidad estructural."
+  },
+  {
+    "objectID": "es/investigacion.html#evaluación-de-la-generalización-en-predicción-de-arn",
+    "href": "es/investigacion.html#evaluación-de-la-generalización-en-predicción-de-arn",
+    "title": "Investigación",
+    "section": "Evaluación de la generalización en predicción de ARN",
+    "text": "Evaluación de la generalización en predicción de ARN\n\nUn buen rendimiento no siempre implica una generalización amplia. Cuando hay secuencias muy relacionadas en los conjuntos de entrenamiento y prueba, la evaluación puede sobreestimar la capacidad del modelo para trabajar con familias de ARN menos conocidas.\nEstudio regímenes de evaluación basados en familias y similitud de secuencia en conjuntos de datos de ARN. Mi contribución se centra en la comparación reproducible de predictores clásicos y de aprendizaje profundo, y en identificar cuándo el rendimiento aparente depende de la composición de la partición de evaluación."
+  },
+  {
+    "objectID": "es/investigacion.html#ensembles-biomoleculares-más-allá-del-arn",
+    "href": "es/investigacion.html#ensembles-biomoleculares-más-allá-del-arn",
+    "title": "Investigación",
+    "section": "Ensembles biomoleculares más allá del ARN",
+    "text": "Ensembles biomoleculares más allá del ARN\n\nEn el marco de la colaboración IDPfun2 Marie Skłodowska-Curie Staff Exchanges, también aplico modelado generativo a ensembles de proteínas ordenadas e intrínsecamente desordenadas. Este trabajo conecta el muestreo computacional con interpretaciones del paisaje energético basadas en física estadística."
+  },
+  {
+    "objectID": "es/investigacion.html#práctica-de-investigación",
+    "href": "es/investigacion.html#práctica-de-investigación",
+    "title": "Investigación",
+    "section": "Práctica de investigación",
+    "text": "Práctica de investigación\nEn estos proyectos utilizo pipelines reproducibles, documento las particiones de datos y las decisiones de evaluación, y comparo los modelos bajo condiciones bien definidas. El objetivo es distinguir las mejoras del modelo de los efectos introducidos por los datos o por el esquema de evaluación."
+  },
+  {
+    "objectID": "es/cv.html",
+    "href": "es/cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Guillermo Kulemeyer\n    \n      Publicaciones\n      Investigación\n      Actividad\n      CV\n      Contacto\n    \n    \n      EN\n      /\n      ES\n    \n  \n\n\n\n\n\nEl CV resume mi formación, experiencia en investigación, docencia, becas y presentaciones. La versión actual fue actualizada en diciembre de 2025.\nDescargar CV (PDF)\n\nDiciembre de 2025 · PDF · 2 páginas"
+  }
+]

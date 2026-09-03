@@ -1,0 +1,627 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.10.18">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="description" content="Guillermo Kulemeyer trabaja en deep learning, bioinformática y modelado predictivo y generativo de estructura de ARN.">
+
+<title>Guillermo Kulemeyer</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-51c3f7c9c1cb7b0292bd99dab90ff3eb.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "language": {
+    "search-no-results-text": "No se han encontrado resultados",
+    "search-matching-documents-text": "documentos encontrados",
+    "search-copy-link-title": "Copiar el enlace en la búsqueda",
+    "search-hide-matches-text": "Ocultar resultados adicionales",
+    "search-more-match-text": "resultado adicional en este documento",
+    "search-more-matches-text": "resultados adicionales en este documento",
+    "search-clear-button-title": "Borrar",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancelar",
+    "search-submit-button-title": "Enviar",
+    "search-label": "Buscar"
+  }
+}</script>
+<style>html{ scroll-behavior: smooth; }</style>
+<meta name="author" content="Guillermo Kulemeyer">
+<link rel="alternate" hreflang="en" href="https://gkulemeyer.github.io/">
+<link rel="alternate" hreflang="es" href="https://gkulemeyer.github.io/es/">
+
+
+<meta property="og:title" content="Guillermo Kulemeyer">
+<meta property="og:description" content="Físico y doctorando en Inteligencia Computacional">
+<meta property="og:image" content="https://gkulemeyer.github.io/assets/img/me.jpg">
+<meta property="og:site_name" content="Guillermo Kulemeyer">
+<meta name="twitter:title" content="Guillermo Kulemeyer">
+<meta name="twitter:description" content="Físico y doctorando en Inteligencia Computacional">
+<meta name="twitter:image" content="https://gkulemeyer.github.io/assets/img/me.jpg">
+<meta name="twitter:card" content="summary_large_image">
+</head>
+
+<body class="quarto-light">
+
+<div id="quarto-search-results"></div>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content column-page" id="quarto-document-content">
+<header class="nav-shell">
+  <nav class="site-nav" aria-label="Navegación principal">
+    <a class="site-nav__name" href="../es/">Guillermo Kulemeyer</a>
+    <div class="site-nav__links">
+      <a href="../es/publicaciones.html">Publicaciones</a>
+      <a href="../es/investigacion.html">Investigación</a>
+      <a href="../es/actividad-academica.html">Actividad</a>
+      <a href="../es/cv.html">CV</a>
+      <a href="../es/contacto.html">Contacto</a>
+    </div>
+    <div class="site-nav__lang" aria-label="Selector de idioma">
+      <a href="../" data-lang="en" lang="en">EN</a>
+      <span aria-hidden="true">/</span>
+      <a href="../es/" data-lang="es" lang="es">ES</a>
+    </div>
+  </nav>
+</header>
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Guillermo Kulemeyer</h1>
+<p class="subtitle lead">Físico y doctorando en Inteligencia Computacional</p>
+</div>
+
+
+
+<div class="quarto-title-meta column-page">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<div class="hero-grid">
+<div class="hero-photo">
+<p><img src="../assets/img/me.jpg" alt="Retrato de Guillermo Kulemeyer" class="profile-photo"></p>
+</div>
+<div class="hero-copy">
+<p>Desarrollo modelos de deep learning para problemas científicos con estructura e incertidumbre. Mi investigación actual se centra en modelos predictivos y generativos para estructura de ARN.</p>
+<p>Estudio cómo estos modelos aprenden representaciones estructurales, cómo generalizan a secuencias menos conocidas y cómo pueden representar múltiples soluciones plausibles.</p>
+<div class="hero-actions">
+<p><a href="../es/investigacion.html" class="button-primary">Conocer mi investigación</a> <a href="../es/cv.html" class="button-secondary">Descargar CV</a></p>
+</div>
+</div>
+</div>
+<section id="publicaciones" class="level2">
+<h2 class="anchored" data-anchor-id="publicaciones">Publicaciones</h2>
+<div class="pub-timeline">
+<div class="pub-entry">
+<div class="pub-year">
+<p>2026</p>
+</div>
+<section id="homology-aware-cross-validation-strategies-for-generalization-assessment-in-rna-structure-prediction" class="level3 pub-body">
+<h3 class="anchored" data-anchor-id="homology-aware-cross-validation-strategies-for-generalization-assessment-in-rna-structure-prediction"><a href="https://doi.org/10.64898/2026.06.28.735057">Homology-aware cross-validation strategies for generalization assessment in RNA structure prediction</a></h3>
+<p>Bugnon, Kulemeyer, Gerard, Di Persia, Stegmayer y Milone · en revisión, preprint en bioRxiv</p>
+</section>
+</div>
+<div class="pub-entry">
+<div class="pub-year">
+<p>2026</p>
+</div>
+<section id="the-less-the-better-improving-rna-secondary-structure-generalization-with-structural-aware-subsampling" class="level3 pub-body">
+<h3 class="anchored" data-anchor-id="the-less-the-better-improving-rna-secondary-structure-generalization-with-structural-aware-subsampling"><a href="../es/publicaciones.html#en-preparacion">The Less the Better: Improving RNA Secondary Structure Generalization with Structural-Aware Subsampling</a></h3>
+<p>Manuscrito en preparación</p>
+</section>
+</div>
+<div class="pub-entry">
+<div class="pub-year">
+<p>2025</p>
+</div>
+<section id="enhancing-deep-learning-prediction-of-base-pairing-probability-in-rna-sequences-using-structural-diversity" class="level3 pub-body">
+<h3 class="anchored" data-anchor-id="enhancing-deep-learning-prediction-of-base-pairing-probability-in-rna-sequences-using-structural-diversity"><a href="../es/publicaciones.html#presentaciones-en-congresos">Enhancing Deep Learning Prediction of Base-Pairing Probability in RNA Sequences Using Structural Diversity</a></h3>
+<p>Póster · I Jornada Argentina de Bioinformática y Biología Computacional</p>
+</section>
+</div>
+<div class="pub-entry">
+<div class="pub-year">
+<p>2024</p>
+</div>
+<section id="dissociative-adsorption-of-methane-on-pt110-12-using-machine-learning" class="level3 pub-body">
+<h3 class="anchored" data-anchor-id="dissociative-adsorption-of-methane-on-pt110-12-using-machine-learning"><a href="../es/publicaciones.html#presentaciones-en-congresos">Dissociative Adsorption of Methane on Pt(110)-(1×2) Using Machine Learning</a></h3>
+<p>Póster · X Encuentro de Física y Química de Superficies, CNEA</p>
+</section>
+</div>
+</div>
+<p><a href="../es/publicaciones.html" class="link-more">Ver todas las publicaciones</a></p>
+</section>
+<section id="preguntas-que-guían-mi-trabajo" class="level2">
+<h2 class="anchored" data-anchor-id="preguntas-que-guían-mi-trabajo">Preguntas que guían mi trabajo</h2>
+<div class="work-grid">
+<section id="aprender-representaciones-estructurales" class="level3 work-item">
+<h3 class="anchored" data-anchor-id="aprender-representaciones-estructurales"><a href="../es/investigacion.html">Aprender representaciones estructurales</a></h3>
+<p>¿Cómo pueden los modelos neuronales capturar las relaciones entre la secuencia y la estructura secundaria del ARN?</p>
+</section>
+<section id="generar-alternativas-plausibles" class="level3 work-item">
+<h3 class="anchored" data-anchor-id="generar-alternativas-plausibles"><a href="../es/investigacion.html#generación-de-ensembles-estructurales-de-arn">Generar alternativas plausibles</a></h3>
+<p>Cuando una secuencia admite más de una estructura, ¿cómo pueden los modelos generativos representar esa diversidad?</p>
+</section>
+<section id="comprender-la-generalización" class="level3 work-item">
+<h3 class="anchored" data-anchor-id="comprender-la-generalización"><a href="../es/investigacion.html#evaluación-de-la-generalización-en-predicción-de-arn">Comprender la generalización</a></h3>
+<p>¿Cómo cambia el rendimiento cuando las secuencias de prueba se parecen menos a los datos utilizados durante el entrenamiento?</p>
+</section>
+</div>
+</section>
+<section id="docencia" class="level2">
+<h2 class="anchored" data-anchor-id="docencia">Docencia</h2>
+<p>Además de investigar, enseño Redes Neuronales I y II en la carrera de Ingeniería en Inteligencia Artificial. <a href="../es/actividad-academica.html">Ver mi actividad académica</a>.</p>
+
+
+</section>
+
+</main> <!-- /main -->
+<footer class="site-footer">
+  <div class="site-footer__affiliation">
+    <a href="https://sinc.unl.edu.ar/">
+      <img src="../assets/img/logo-sinc.svg" alt="sinc(i), UNL-CONICET" class="site-footer__logo">
+    </a>
+    <div>
+      <strong>Instituto de Investigación en Señales, Sistemas e Inteligencia Computacional</strong><br>
+      FICH · Universidad Nacional del Litoral · CONICET
+    </div>
+  </div>
+  <div class="site-footer__links" aria-label="Contacto y perfiles académicos">
+    <a href="mailto:gkulemeyer@sinc.unl.edu.ar">Correo</a>
+    <a href="https://scholar.google.com/citations?user=mBucAygAAAAJ&amp;hl=es">Google Scholar</a>
+    <a href="https://github.com/gkulemeyer">GitHub</a>
+    <a href="https://www.linkedin.com/in/guillermo-kulemeyer/">LinkedIn</a>
+  </div>
+</footer>
+<script src="../assets/js/site.js"></script>
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copiado");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copiado");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("https:\/\/gkulemeyer\.github\.io");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+
+
+
+
+<script src="../site_libs/quarto-html/zenscroll-min.js"></script>
+</body></html>
