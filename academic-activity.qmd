@@ -43,10 +43,6 @@ Thesis on machine-learning simulations of dissociative adsorption of methane on 
 **Instituto de Física Rosario (IFIR), UNR-CONICET · 2022–2024**<br>
 As an EVC-CIN undergraduate research fellow, I worked on neural-network interatomic potentials and computational simulations of methane adsorption on platinum surfaces.
 
-## Selected Presentations
+## Presentations
 
-**I Jornada Argentina de Bioinformática y Biología Computacional · 2025**<br>
-Poster: “Enhancing Deep Learning Prediction of Base-Pairing Probability in RNA Sequences Using Structural Diversity.”
-
-**X Encuentro de Física y Química de Superficies, CNEA · 2024**<br>
-Poster: “Dissociative Adsorption of Methane on Pt(110)-(1×2) Using Machine Learning.”
+Conference posters and other presentations are listed on the [Publications](publications.qmd#conference-presentations) page.

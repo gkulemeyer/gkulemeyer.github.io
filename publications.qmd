@@ -1,0 +1,56 @@
+---
+title: "Publications"
+subtitle: "Articles, preprints, and conference presentations"
+description-meta: "Publications and preprints by Guillermo Kulemeyer on RNA structure prediction, generalization assessment, and generative modeling."
+header-includes: |
+  <link rel="alternate" hreflang="en" href="https://gkulemeyer.github.io/publications.html">
+  <link rel="alternate" hreflang="es" href="https://gkulemeyer.github.io/es/publicaciones.html">
+---
+
+My published and in-progress work concerns how deep-learning models for RNA secondary structure are evaluated, and how they can be made to generalize beyond the families they were trained on. An up-to-date list is also available on [Google Scholar](https://scholar.google.com/citations?user=mBucAygAAAAJ&hl=en).
+
+## Articles and Preprints
+
+::: {.publication}
+Bugnon, L. A., **Kulemeyer, G.**, Gerard, M., Di Persia, L., Stegmayer, G., & Milone, D. H. (2026). *Homology-aware cross-validation strategies for generalization assessment in RNA structure prediction.*
+
+::: {.publication-meta}
+Under review · bioRxiv preprint
+:::
+
+The paper examines how homology between training and test sequences inflates reported accuracy in RNA structure prediction, and compares classical and deep-learning predictors under family-aware and sequence-similarity validation schemes. My contribution centers on the comparative benchmarking and its reproducible implementation.
+
+::: {.publication-links}
+[Preprint (DOI)](https://doi.org/10.64898/2026.06.28.735057) · [Code and data](https://github.com/sinc-lab/xvalRNAfolding)
+:::
+:::
+
+## In Preparation
+
+::: {.publication}
+*The Less the Better: Improving RNA Secondary Structure Generalization with Structural-Aware Subsampling.*
+
+::: {.publication-meta}
+Manuscript in preparation
+:::
+
+Structure-aware subsampling of training data retains roughly 18% of ArchiveII while preserving structural diversity, reaching performance comparable to training on the full dataset. The manuscript reports the subsampling strategy and its effect on cross-family generalization.
+:::
+
+## Conference Presentations
+
+::: {.publication}
+**Enhancing Deep Learning Prediction of Base-Pairing Probability in RNA Sequences Using Structural Diversity.**
+
+::: {.publication-meta}
+Poster · 1st Argentine Workshop on Bioinformatics and Computational Biology (JAB2C) · 2025
+:::
+:::
+
+::: {.publication}
+**Dissociative Adsorption of Methane on Pt(110)-(1×2) Using Machine Learning.**
+
+::: {.publication-meta}
+Poster · 10th Surfaces Physics & Chemistry Meeting, CNEA · 2024
+:::
+:::

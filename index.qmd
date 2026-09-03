@@ -26,6 +26,56 @@ I study how these models learn structural representations, generalize to less fa
 :::
 :::
 
+## Publications
+
+::: {.pub-timeline}
+::: {.pub-entry}
+::: {.pub-year}
+2026
+:::
+::: {.pub-body}
+### [Homology-aware cross-validation strategies for generalization assessment in RNA structure prediction](https://doi.org/10.64898/2026.06.28.735057)
+
+Bugnon, Kulemeyer, Gerard, Di Persia, Stegmayer & Milone · under review, bioRxiv preprint
+:::
+:::
+
+::: {.pub-entry}
+::: {.pub-year}
+2026
+:::
+::: {.pub-body}
+### [The Less the Better: Improving RNA Secondary Structure Generalization with Structural-Aware Subsampling](publications.qmd#in-preparation)
+
+Manuscript in preparation
+:::
+:::
+
+::: {.pub-entry}
+::: {.pub-year}
+2025
+:::
+::: {.pub-body}
+### [Enhancing Deep Learning Prediction of Base-Pairing Probability in RNA Sequences Using Structural Diversity](publications.qmd#conference-presentations)
+
+Poster · 1st Argentine Workshop on Bioinformatics and Computational Biology
+:::
+:::
+
+::: {.pub-entry}
+::: {.pub-year}
+2024
+:::
+::: {.pub-body}
+### [Dissociative Adsorption of Methane on Pt(110)-(1×2) Using Machine Learning](publications.qmd#conference-presentations)
+
+Poster · 10th Surfaces Physics & Chemistry Meeting, CNEA
+:::
+:::
+:::
+
+[See all publications](publications.qmd){.link-more}
+
 ## Questions Guiding My Work
 
 ::: {.work-grid}

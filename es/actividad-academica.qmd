@@ -43,10 +43,6 @@ Tesina sobre simulaciones de la adsorción disociativa de metano en Pt(110)-(1×
 **Instituto de Física Rosario (IFIR), UNR-CONICET · 2022–2024**<br>
 Como becario EVC-CIN, trabajé en potenciales interatómicos basados en redes neuronales y simulaciones computacionales de adsorción de metano sobre superficies de platino.
 
-## Presentaciones seleccionadas
+## Presentaciones
 
-**I Jornada Argentina de Bioinformática y Biología Computacional · 2025**<br>
-Póster: “Enhancing Deep Learning Prediction of Base-Pairing Probability in RNA Sequences Using Structural Diversity”.
-
-**X Encuentro de Física y Química de Superficies, CNEA · 2024**<br>
-Póster: “Adsorción disociativa de metano sobre Pt(110)-(1×2) con aprendizaje automatizado”.
+Los pósters en congresos y otras presentaciones están listados en la página de [Publicaciones](publicaciones.qmd#presentaciones-en-congresos).

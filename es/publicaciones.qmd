@@ -1,0 +1,56 @@
+---
+title: "Publicaciones"
+subtitle: "Artículos, preprints y presentaciones en congresos"
+description-meta: "Publicaciones y preprints de Guillermo Kulemeyer sobre predicción de estructura de ARN, evaluación de generalización y modelado generativo."
+header-includes: |
+  <link rel="alternate" hreflang="en" href="https://gkulemeyer.github.io/publications.html">
+  <link rel="alternate" hreflang="es" href="https://gkulemeyer.github.io/es/publicaciones.html">
+---
+
+Mi trabajo publicado y en curso trata sobre cómo se evalúan los modelos de deep learning para estructura secundaria de ARN y cómo lograr que generalicen más allá de las familias con las que fueron entrenados. También hay una lista actualizada en [Google Scholar](https://scholar.google.com/citations?user=mBucAygAAAAJ&hl=es).
+
+## Artículos y preprints {#articulos-y-preprints}
+
+::: {.publication}
+Bugnon, L. A., **Kulemeyer, G.**, Gerard, M., Di Persia, L., Stegmayer, G. y Milone, D. H. (2026). *Homology-aware cross-validation strategies for generalization assessment in RNA structure prediction.*
+
+::: {.publication-meta}
+En revisión · preprint en bioRxiv
+:::
+
+El trabajo analiza cómo la homología entre secuencias de entrenamiento y de prueba infla la exactitud reportada en predicción de estructura de ARN, y compara predictores clásicos y de deep learning bajo esquemas de validación por familia y por similitud de secuencia. Mi contribución se centra en el benchmarking comparativo y en su implementación reproducible.
+
+::: {.publication-links}
+[Preprint (DOI)](https://doi.org/10.64898/2026.06.28.735057) · [Código y datos](https://github.com/sinc-lab/xvalRNAfolding)
+:::
+:::
+
+## En preparación {#en-preparacion}
+
+::: {.publication}
+*The Less the Better: Improving RNA Secondary Structure Generalization with Structural-Aware Subsampling.*
+
+::: {.publication-meta}
+Manuscrito en preparación
+:::
+
+El submuestreo del conjunto de entrenamiento guiado por estructura conserva alrededor del 18 % de ArchiveII preservando la diversidad estructural, con un rendimiento comparable al del entrenamiento con el conjunto completo. El manuscrito presenta la estrategia de submuestreo y su efecto sobre la generalización entre familias.
+:::
+
+## Presentaciones en congresos {#presentaciones-en-congresos}
+
+::: {.publication}
+**Enhancing Deep Learning Prediction of Base-Pairing Probability in RNA Sequences Using Structural Diversity.**
+
+::: {.publication-meta}
+Póster · I Jornada Argentina de Bioinformática y Biología Computacional · 2025
+:::
+:::
+
+::: {.publication}
+**Dissociative Adsorption of Methane on Pt(110)-(1×2) Using Machine Learning.**
+
+::: {.publication-meta}
+Póster · X Encuentro de Física y Química de Superficies, CNEA · 2024
+:::
+:::

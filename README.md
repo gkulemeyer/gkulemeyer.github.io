@@ -28,5 +28,5 @@ The workflow renders on every push to `main`. Generated `.quarto/` and `_site/` 
 - Add or update content in English and Spanish together.
 - Keep the route pairs in `assets/js/site.js` synchronized when adding pages.
 - Verify academic claims against the current CV and official sources before publishing.
-- Add a Publications page only when at least one output is approved for public display.
+- Keep `publications.qmd` and `es/publicaciones.qmd` in sync, and mirror the four most recent entries in the home-page timeline of `index.qmd` and `es/index.qmd`.
 - Replace the dated PDF in `assets/cv/` and update both CV pages when a new public CV is available.

@@ -3,12 +3,14 @@ project:
   output-dir: _site
   render:
     - index.qmd
+    - publications.qmd
     - research.qmd
     - academic-activity.qmd
     - cv.qmd
     - contact.qmd
     - 404.qmd
     - es/index.qmd
+    - es/publicaciones.qmd
     - es/investigacion.qmd
     - es/actividad-academica.qmd
     - es/cv.qmd

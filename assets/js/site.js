@@ -1,6 +1,7 @@
 (() => {
   const pairs = {
     "/": "/es/",
+    "/publications": "/es/publicaciones.html",
     "/research": "/es/investigacion.html",
     "/academic-activity": "/es/actividad-academica.html",
     "/cv": "/es/cv.html",
